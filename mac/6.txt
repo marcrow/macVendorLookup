@@ -1,0 +1,1432 @@
+000006	XEROX CORPORATION
+000016	DU PONT PIXEL SYSTEMS     .
+000026	SHA-KEN CO., LTD.
+000036	ATARI CORPORATION
+000046	ISC-BR
+000056	DR. B. STRUCK
+000066	Talaris
+000076	ABEKAS VIDEO SYSTEM
+000086	Gateway Communications Inc. (then Megahertz & now 3com)
+000096	MARCONI ELECTRONICS LTD.
+0000A6	Network General (internal assignment, not for products)
+0000B6	Micro-matic Research
+0000C6	HP Intelligent Networks Operation (formerly Eon Systems)
+0000D6	PUNCH LINE HOLDING
+0000E6	Aptor Produits De Comm Indust
+0000F6	Madge
+000106	Tews Datentechnik GmbH
+000116	Netspect Technologies, Inc.
+000126	PAC Labs
+000136	CyberTAN Technology Inc.
+000146	Tesco Controls, Inc.
+000156	FIREWIREDIRECT.COM, INC.
+000166	TC GROUP A/S
+000176	Orient Silver Enterprises
+000186	Uwe Disch
+000196	Cisco Systems, Inc
+0001A6	Scientific-Atlanta Arcodan A/S
+0001B6	SaejinT&               # SAEJIN T&M Co., Ltd.
+0001C6	Quarry Technologies
+0001D6	manroland AG
+0001E6	Hewlett Packard
+0001F6	Association of Musical Electronics Industry
+000206	Telital R&D Denmark A/S
+000216	ESI (Extended Systems, Inc)	print servers
+000226	XESystems, Inc.
+000236	INIT GmbH
+000246	All-Win Tech Co., Ltd.
+000256	Alpha Processor, Inc.
+000266	Thermalogic Corporation
+000276	Primax Electronics Ltd.
+000286	Occam Networks
+000296	Lectron Co,. Ltd.
+0002A6	Effinet Systems Co., Ltd.
+0002B6	Acrosser Technology Co., Ltd.
+0002C6	Data Track Technology PLC
+0002D6	NICE Systems
+0002E6	Gould Instrument Systems, Inc.
+0002F6	Equipe Communications
+000306	Fusion In Tech Co., Ltd.
+000316	Nobell Communications, Inc.
+000326	Iwasaki Information Systems Co., Ltd.
+000336	Zetes Technologies
+000346	Hitachi Kokusai Electric, Inc.
+000356	Wincor Nixdorf International GmbH
+000366	ASM Pacific Technology
+000376	Graphtec Technology, Inc.
+000386	Ho Net, Inc.
+000396	EZ Cast Co., Ltd.
+0003A6	Traxit Technology, Inc.
+0003B6	QSI Corporation
+0003C6	Morning Star Technologies Inc
+0003D6	RADVision, Ltd.
+0003E6	Entone, Inc.
+0003F6	Allegro Networks, Inc.
+000406	Fa. Metabox AG
+000416	Parks S/A Comunicacoes Digitais
+000426	Autosys
+000436	ELANsat Technologies, Inc.
+000446	CYZENTECH Co., Ltd.
+000456	Cambium Networks Limited
+000466	ARMITEL Co.
+000476	3 Com Corporation
+000486	ITTC, University of Kansas
+000496	Extreme Networks
+0004A6	SAF Tehnika Ltd.
+0004B6	Stratex Networks, Inc.
+0004C6	YAMAHA MOTOR CO.,LTD
+0004D6	Takagi Industrial Co., Ltd.
+0004E6	Banyan Network Private Limited
+0004F6	Amphus
+000506	Reddo Networks AB
+000516	SMART Modular Technologies
+000526	IPAS GmbH
+000536	Danam Communications, Inc.
+000546	KDDI Network & Solultions Inc.
+000556	360 Systems
+000566	Secui.com Corporation
+000576	NSM Technology Ltd.
+000586	Lucent Technologies
+000596	Genotech Co., Ltd.
+0005A6	Extron Electronics
+0005B6	INSYS Microelectronics GmbH
+0005C6	Triz Communications
+0005D6	L-3 Linkabit
+0005E6	Egenera, Inc.
+0005F6	Young Chang Co. Ltd.
+000606	RapidWAN, Inc.
+000616	Tel Net Co., Ltd.
+000626	MWE GmbH
+000636	Jedai Broadband Networks
+000646	ShenZhen XunBao Network Technology Co Ltd
+000656	Tactel AB
+000666	Roving Networks
+000676	Novra Technologies Inc.
+000686	ZARDCOM Co., Ltd.
+000696	Advent Networks
+0006A6	Artistic Licence Engineering Ltd
+0006B6	Nir-Or Israel Ltd.
+0006C6	lesswire AG
+0006D6	Cisco Systems, Inc
+0006E6	DongYang Telecom Co., Ltd.
+0006F6	Cisco Systems, Inc
+000706	Sanritz Corporation
+000716	J & S Marine Ltd.
+000726	Shenzhen Gongjin Electronics Co., Ltd.
+000736	Data Video Technologies Co., Ltd.
+000746	TURCK, Inc.
+000756	Juyoung Telecom
+000766	Chou Chin Industrial Co., Ltd.
+000776	Federal APD
+000786	Wireless Networks Inc.
+000796	LSI Systems, Inc.
+0007A6	Leviton Manufacturing Co., Inc.
+0007B6	Telecom Technology Ltd.
+0007C6	VDS Vosskuhler GmbH
+0007D6	Commil Ltd.
+0007E6	edgeflow Canada Inc.
+0007F6	Qqest Software Systems
+000806	Raonet Systems, Inc.
+000816	Bluelon ApS
+000826	Colorado Med Tech
+000856	Gamatronic Electronic Industries Ltd.
+000866	DSX Access Systems, Inc.
+000876	Sdsystem
+000886	Hansung Teliann, Inc.
+000896	Printronix, Inc.
+0008A6	Multiware & Image Co., Ltd.
+0008B6	RouteFree, Inc.
+0008C6	Philips Consumer Communications
+0008D6	HASSNET Inc.
+0008E6	Littlefeet
+0008F6	Sumitomo Electric Industries,Ltd
+000906	Esteem Networks
+000916	Listman Home Technologies, Inc.
+000926	YODA COMMUNICATIONS, INC.
+000936	Ipetronik GmbH & Co. KG
+000946	Cluster Labs GmbH
+000956	Network Systems Group, Ltd. (NSG)
+000966	Thales Navigation
+000976	Datasoft ISDN Systems GmbH
+000986	Metalink LTD.
+000996	Rdi
+0009A6	Ignis Optics, Inc.
+0009B6	Cisco Systems, Inc
+0009C6	Visionics Corporation
+0009D6	KNC One GmbH
+0009E6	Cyber Switching Inc.
+0009F6	Shenzhen Eastern Digital Tech Ltd.
+000A06	Teledex LLC
+000A16	Lassen Research
+000A26	CEIA S.p.A.
+000A36	Synelec Telecom Multimedia
+000A46	ARO WELDING TECHNOLOGIES SAS
+000A56	HITACHI Maxell Ltd.
+000A66	MITSUBISHI ELECTRIC SYSTEM & SERVICE CO.,LTD.
+000A76	Beida Jade Bird Huaguang Technology Co.,Ltd
+000A86	Lenze
+000A96	MEWTEL TECHNOLOGY INC.
+000AA6	Hochiki Corporation
+000AB6	COMPUNETIX, INC
+000AC6	Overture Networks.
+000AD6	BeamReach Networks
+000AE6	Elitegroup Computer Systems Co.,Ltd.
+000AF6	Emerson Climate Technologies Retail Solutions, Inc.
+000B06	ARRIS Group, Inc.
+000B16	Communication Machinery Corporation
+000B26	Wetek Corporation
+000B36	Productivity Systems, Inc.
+000B46	Cisco Systems, Inc
+000B56	Cybernetics
+000B66	Teralink Communications
+000B76	ET&T Technology Co. Ltd.
+000B86	Aruba Networks
+000B96	Innotrac Diagnostics Oy
+000BA6	Miyakawa Electric Works Ltd.
+000BB6	Metalligence Technology Corp.
+000BC6	ISAC, Inc.
+000BD6	Paxton Access Ltd
+000BE6	Datel Electronics
+000BF6	Nitgen Co., Ltd
+000C06	Nixvue Systems  Pte Ltd
+000C16	Concorde Microsystems Inc.
+000C26	Weintek Labs. Inc.
+000C36	SHARP TAKAYA ELECTRONICS INDUSTRY CO.,LTD.
+000C46	Allied Telesyn Inc.
+000C56	Megatel Computer (1986) Corp.
+000C66	Pronto Networks Inc
+000C76	MICRO-STAR INTERNATIONAL CO., LTD.
+000C86	Cisco Systems, Inc
+000C96	OQO, Inc.
+000CA6	Mintera Corporation
+000CB6	NANJING SEU MOBILE & INTERNET TECHNOLOGY CO.,LTD
+000CC6	Ka-Ro electronics GmbH
+000CD6	PARTNER TECH
+000CE6	Meru Networks Inc
+000CF6	Sitecom Europe BV
+000D06	Compulogic Limited
+000D16	UHS Systems Pty Ltd
+000D26	Primagraphics Limited
+000D36	Wu Han Routon Electronic Co., Ltd
+000D46	Parker SSD Drives
+000D56	Dell Inc.
+000D66	Cisco Systems, Inc
+000D76	Hokuto Denshi Co,. Ltd.
+000D86	Huber + Suhner AG
+000D96	Vtera Technology Inc.
+000DA6	Universal Switching Corporation
+000DB6	Broadcom
+000DC6	DigiRose Technology Co., Ltd.
+000DD6	ITI    LTD
+000DE6	YOUNGBO ENGINEERING CO.,LTD
+000DF6	Technology Thesaurus Corp.
+000E06	Team Simoco Ltd
+000E16	SouthWing S.L.
+000E26	Gincom Technology Corp.
+000E36	HEINESYS, Inc.
+000E46	Niigata Seimitsu Co.,Ltd.
+000E56	4G Systems GmbH & Co. KG
+000E66	Hitachi Industry & Control Solutions, Ltd.
+000E76	GEMSOC INNOVISION INC.
+000E86	Alcatel North America
+000E96	Cubic Defense Applications, Inc.
+000EA6	ASUSTek COMPUTER INC.
+000EB6	Riverbed Technology, Inc.
+000EC6	ASIX ELECTRONICS CORP.
+000ED6	Cisco Systems, Inc
+000EE6	Adimos Systems LTD
+000EF6	E-TEN Information Systems Co., Ltd.
+000F06	Nortel Networks
+000F16	JAY HOW TECHNOLOGY CO.,
+000F26	WorldAccxx  LLC
+000F36	Accurate Techhnologies, Inc.
+000F46	SINAR AG
+000F56	Continuum Photonics Inc
+000F66	Cisco-Linksys, LLC
+000F76	Digital Keystone, Inc.
+000F86	BlackBerry RTS
+000F96	Telco Systems, Inc.
+000FA6	S2 Security Corporation
+000FB6	Europlex Technologies
+000FC6	Eurocom Industries A/S
+000FD6	Sarotech Co., Ltd
+000FE6	MBTech Systems, Inc.
+000FF6	DARFON LIGHTING CORP
+001006	Thales Contact Solutions Ltd.
+001016	T.SQWARE
+001026	ACCELERATED NETWORKS, INC.
+001036	INTER-TEL INTEGRATED SYSTEMS
+001046	ALCORN MCBRIDE INC.
+001056	SODICK CO., LTD.
+001066	ADVANCED CONTROL SYSTEMS, INC.
+001076	EUREM GmbH
+001086	ATTO Technology, Inc.
+001096	TRACEWELL SYSTEMS, INC.
+0010A6	Cisco
+0010B6	ENTRATA COMMUNICATIONS CORP.
+0010C6	Universal Global Scientific Industrial Co., Ltd.
+0010D6	Exelis
+0010E6	APPLIED INTELLIGENT SYSTEMS, INC.
+0010F6	Cisco
+001106	Siemens NV (Belgium)
+001116	COTEAU VERT CO., LTD.
+001126	Venstar Inc.
+001136	Goodrich Sensor Systems
+001146	Telecard-Pribor Ltd
+001156	Pharos Systems NZ
+001166	Taelim Electronics Co., Ltd.
+001176	Intellambda Systems, Inc.
+001186	Prime Systems, Inc.
+001196	Actuality Systems, Inc.
+0011A6	Sypixx Networks
+0011B6	Open Systems International
+0011C6	Seagate Technology
+0011D6	HandEra, Inc.
+0011E6	Scientific Atlanta
+0011F6	Asia Pacific Microsystems , Inc.
+001206	iQuest (NZ) Ltd
+001216	ICP Internet Communication Payment AG
+001226	Japan Direx Corporation
+001236	ConSentry Networks
+001246	T.O.M TECHNOLOGY INC..
+001256	LG INFORMATION & COMM.
+001266	Swisscom Hospitality Services SA
+001276	CG Power Systems Ireland Limited
+001286	ENDEVCO CORP
+001296	Addlogix
+0012A6	Dolby Australia
+0012B6	Santa Barbara Infrared, Inc.
+0012C6	TGC America, Inc
+0012D6	Jiangsu Yitong High-Tech Co.,Ltd
+0012E6	SPECTEC COMPUTER CO., LTD.
+0012F6	MDK CO.,LTD.
+001306	Always On Wireless
+001316	L-S-B Broadcast Technologies GmbH
+001326	ECM Systems Ltd
+001336	Tianjin 712 Communication Broadcasting co., ltd.
+001346	D-Link Corporation
+001356	FLIR Radiation Inc
+001366	Neturity Technologies Inc.
+001376	Tabor Electronics Ltd.
+001386	ABB Inc./Totalflow
+001396	Acbel Polytech Inc.
+0013A6	Extricom Ltd
+0013B6	Sling Media, Inc.
+0013C6	OpenGear, Inc
+0013D6	TII NETWORK TECHNOLOGIES, INC.
+0013E6	Technolution
+0013F6	Cintech
+001406	Go Networks
+001416	Scosche Industries, Inc.
+001426	NL Technology
+001436	Qwerty Elektronik AB
+001446	SuperVision Solutions LLC
+001456	Edge Products
+001466	Kleinhenz Elektronik GmbH
+001476	MultiCom Industries Limited
+001486	Echo Digital Audio Corporation
+001496	Phonic Corp.
+0014A6	Teranetics, Inc.
+0014B6	Enswer Technology Inc.
+0014C6	Quixant Ltd
+0014D6	Jeongmin Electronics Co.,Ltd.
+0014E6	AIM Infrarotmodule GmbH
+0014F6	Juniper Networks
+001506	Neo Photonics
+001516	URIEL SYSTEMS INC.
+001526	Remote Technologies Inc
+001536	Powertech co.,Ltd
+001546	ITG Worldwide Sdn Bhd
+001556	Sagemcom Broadband SAS
+001566	A-First Technology Co., Ltd.
+001576	Labitec-               # LABiTec - Labor Biomedical Technologies GmbH
+001586	Xiamen Overseas Chinese Electronic Co., Ltd.
+001596	ARRIS Group, Inc.
+0015A6	Digital Electronics Products Ltd.
+0015B6	ShinMaywa Industries, Ltd.
+0015C6	Cisco Systems, Inc
+0015D6	OSLiNK Sp. z o.o.
+0015E6	MOBILE TECHNIKA Inc.
+0015F6	SCIENCE AND ENGINEERING SERVICES, INC.
+001606	Ideal Industries
+001616	BROWAN COMMUNICATION INC.
+001626	ARRIS Group, Inc.
+001636	QUANTA COMPUTER INC.
+001646	Cisco Systems, Inc
+001656	Nintendo Co., Ltd.
+001666	Quantier Communication Inc.
+001676	Intel Corporate
+001686	Karl Storz Imaging
+001696	QDI Technology (H.K.) Limited
+0016A6	Dovado FZ-LLC
+0016B6	Cisco-Linksys, LLC
+0016C6	North Atlantic Industries
+0016D6	TDA Tech Pty Ltd
+0016E6	GIGA-BYTE TECHNOLOGY CO.,LTD.
+0016F6	Video Products Group
+001706	Techfaithwireless Communication Technology Limited.
+001716	Qno Technology Inc.
+001726	m2c Electronic Technology Ltd.
+001736	iiTron Inc.
+001746	Freedom9 Inc.
+001756	Vinci Labs Oy
+001766	Accense Technology, Inc.
+001776	Meso Scale Diagnostics, LLC
+001786	Wisembed
+001796	Rittmeyer AG
+0017A6	YOSIN ELECTRONICS CO., LTD.
+0017B6	Aquantia
+0017C6	Cross Match Technologies Inc
+0017D6	Bluechips Microhouse Co.,Ltd.
+0017E6	Texas Instruments
+0017F6	Pyramid Meriden Inc.
+001806	Hokkei Industries Co., Ltd.
+001816	Ubixon Co., Ltd.
+001826	Cale Access AB
+001836	Reliance Electric Limited
+001846	Crypto S.A.
+001856	EyeFi, Inc
+001866	Leutron Vision
+001876	WowWee Ltd.
+001886	EL-TECH, INC.
+001896	Great Well Electronic LTD
+0018A6	Persistent Systems, LLC
+0018B6	S3C, Inc.
+0018C6	OPW Fuel Management Systems
+0018D6	Swirlnet A/S
+0018E6	Computer Hardware Design SIA
+0018F6	Thomson Telecom Belgium
+001906	Cisco Systems, Inc
+001916	PayTec AG
+001926	BitsGen Co., Ltd.
+001936	STERLITE OPTICAL TECHNOLOGIES LIMITED
+001946	Cianet Industria e Comercio S/A
+001956	Cisco Systems, Inc
+001966	Asiarock Technology Limited
+001976	Xipher Technologies, LLC
+001986	Cheng Hongjian
+001996	TurboChef Technologies Inc.
+0019A6	ARRIS Group, Inc.
+0019B6	Euro Emme s.r.l.
+0019C6	zte corporation
+0019D6	LS Cable and System Ltd.
+0019E6	TOYO MEDIC CO.,LTD.
+0019F6	Acconet (PTE) Ltd
+001A06	OpVista, Inc.
+001A16	Nokia Danmark A/S
+001A26	Deltanode Solutions AB
+001A36	Aipermon GmbH & Co. KG
+001A46	Digital Multimedia Technology Co., Ltd
+001A56	ViewTel Co,. Ltd.
+001A66	ARRIS Group, Inc.
+001A76	SDT information Technology Co.,LTD.
+001A86	AdvancedIO Systems Inc
+001A96	ECLER S.A.
+001AA6	Telefunken Radio Communication Systems GmbH &CO.KG
+001AB6	Texas Instruments
+001AC6	Micro Control Designs
+001AD6	JIAGNSU AETNA ELECTRIC CO.,LTD
+001AE6	Atlanta Advanced Communications Holdings Limited
+001AF6	Woven Systems, Inc.
+001B06	Ateliers R. LAUMONIER
+001B16	Celtro Ltd.
+001B26	RON-Telecom ZAO
+001B36	Tsubata Engineering Co.,Ltd. (Head Office)
+001B46	Blueone Technology Co.,Ltd
+001B56	Tehuti Networks Ltd.
+001B66	Sennheiser electronic GmbH & Co. KG
+001B76	Ripcode, Inc.
+001B86	Bosch Access Systems GmbH
+001B96	General Sensing
+001BA6	intotech inc.
+001BB6	Bird Electronic Corp.
+001BC6	Strato Rechenzentrum AG
+001BD6	Kelvin Hughes Ltd
+001BE6	VR AG
+001BF6	CONWISE Technology Corporation Ltd.
+001C06	Siemens Numerical Control Ltd., Nanjing
+001C16	ThyssenKrupp Elevator
+001C26	Hon Hai Precision Ind. Co.,Ltd.
+001C36	iNEWiT NV
+001C46	Qtum
+001C56	Pado Systems, Inc.
+001C66	UCAMP CO.,LTD
+001C76	The Wandsworth Group Ltd
+001C86	Cranite Systems, Inc.
+001C96	Linkwise Technology Pte Ltd
+001CA6	Win4net
+001CB6	Duzon CNT Co., Ltd.
+001CC6	ProStor Systems
+001CD6	Nokia Danmark A/S
+001CE6	Innes
+001CF6	Cisco Systems, Inc
+001D06	HM Electronics, Inc.
+001D16	Sfr
+001D26	Rockridgesound Technology Co.
+001D36	ELECTRONICS CORPORATION OF INDIA LIMITED
+001D46	Cisco Systems, Inc
+001D56	Kramer Electronics Ltd.
+001D66	Hyundai Telecom
+001D76	Eyeheight Ltd.
+001D86	Shinwa Industries(China) Ltd.
+001D96	WatchGuard Video
+001DA6	Media Numerics Limited
+001DB6	BestComm Networks, Inc.
+001DC6	SNR Inc.
+001DD6	ARRIS Group, Inc.
+001DE6	Cisco Systems, Inc
+001DF6	Samsung Electronics Co.,Ltd
+001E06	Wibrain
+001E16	Keytronix
+001E26	Digifriends Co. Ltd
+001E36	Ipte
+001E46	ARRIS Group, Inc.
+001E56	Bally Wulff Entertainment GmbH
+001E66	RESOL Elektronische Regelungen GmbH
+001E76	Thermo Fisher Scientific
+001E86	MEL Co.,Ltd.
+001E96	Sepura Plc
+001EA6	Best IT World (India) Pvt. Ltd.
+001EB6	TAG Heuer SA
+001EC6	Obvius Holdings LLC
+001ED6	Alentec & Orion AB
+001EE6	Shenzhen Advanced Video Info-Tech Co., Ltd.
+001EF6	Cisco Systems, Inc
+001F06	Integrated Dispatch Solutions
+001F16	Wistron Corporation
+001F26	Cisco Systems, Inc
+001F36	Bellwin Information Co. Ltd.,
+001F46	Nortel Networks
+001F56	DIGITAL FORECAST
+001F66	PLANAR LLC
+001F76	AirLogic Systems Inc.
+001F86	Digecor
+001F96	APROTECH CO.LTD
+001FA6	Stilo srl
+001FB6	Chi Lin Technology Co., Ltd.
+001FC6	ASUSTek COMPUTER INC.
+001FD6	Shenzhen Allywll
+001FE6	Alphion Corporation
+001FF6	PS Audio International
+002006	GARRETT COMMUNICATIONS, INC.
+002016	SHOWA ELECTRIC WIRE & CABLE CO
+002026	AMKLY SYSTEMS, INC.
+002036	BMC Software
+002046	CIPRICO, INC.
+002056	Neoproducts
+002066	General Magic Inc
+002076	REUDO CORPORATION
+002086	MICROTECH ELECTRONICS LIMITED
+002096	Invensys
+0020A6	Proxim Inc
+0020B6	Agile Networks Inc
+0020C6	Nectec
+0020D6	Breezecom, Ltd.
+0020E6	LIDKOPING MACHINE TOOLS AB
+0020F6	Net Tek & Karlnet Inc
+002106	RIM Testing Services
+002116	Transcon Electronic Systems, spol. s r. o.
+002126	Shenzhen Torch Equipment Co., Ltd.
+002136	ARRIS Group, Inc.
+002146	Sanmina-               # Sanmina-SCI
+002156	Cisco Systems, Inc
+002166	NovAtel Inc.
+002176	YMax Telecom Ltd.
+002186	Universal Global Scientific Industrial Co., Ltd.
+002196	Telsey  S.p.A.
+0021A6	Videotec Spa
+0021B6	Triacta Power Technologies Inc.
+0021C6	CSJ Global, Inc.
+0021D6	LXI Consortium
+0021E6	Starlight Video Limited
+0021F6	Oracle Corporation
+002206	Cyberdyne Inc.
+002216	SHIBAURA VENDING MACHINE CORPORATION
+002226	Avaak, Inc.
+002236	VECTOR SP. Z O.O.
+002246	Evoc Intelligent Technology Co.,Ltd.
+002256	Cisco Systems, Inc
+002266	Nokia Danmark A/S
+002276	Triple EYE B.V.
+002286	Astron
+002296	LinoWave Corporation
+0022A6	Sony Computer Entertainment America
+0022B6	Superflow Technologies Group
+0022C6	Sutus Inc
+0022D6	Cypak AB
+0022E6	Intelligent Data
+0022F6	Syracuse Research Corporation
+002306	ALPS ELECTRIC CO.,LTD.
+002316	KISAN ELECTRONICS CO
+002326	FUJITSU LIMITED
+002336	METEL s.r.o.
+002346	Vestac
+002356	Packet Forensics LLC
+002366	Beijing Siasun Electronic System Co.,Ltd.
+002376	HTC Corporation
+002386	Tour & Andersson AB
+002396	ANDES TECHNOLOGY CORPORATION
+0023A6	E-Mon
+0023B6	SECURITE COMMUNICATIONS / HONEYWELL
+0023C6	SMC Corporation
+0023D6	Samsung Electronics Co.,Ltd
+0023E6	Pirkus, Inc.
+0023F6	Softwell Technology Co., Ltd.
+002406	Pointmobile
+002416	Any Use
+002426	NOHMI BOSAI LTD.
+002436	Apple, Inc.
+002446	MMB Research Inc.
+002456	2Wire Inc
+002466	Unitron nv
+002476	TAP.tv
+002486	DesignArt Networks
+002496	Ginzinger electronic systems
+0024A6	TELESTAR DIGITAL GmbH
+0024B6	Seagate Technology
+0024C6	Hager Electro SAS
+0024D6	Intel Corporate
+0024E6	In Motion Technology Inc.
+0024F6	MIYOSHI ELECTRONICS CORPORATION
+002506	A.I. ANTITACCHEGGIO ITALIA SRL
+002516	Integrated Design Tools, Inc.
+002526	Genuine Technologies Co., Ltd.
+002536	Oki Electric Industry Co., Ltd.
+002546	Cisco Systems, Inc
+002556	Hon Hai Precision Ind. Co.,Ltd.
+002566	Samsung Electronics Co.,Ltd
+002576	NELI TECHNOLOGIES
+002586	TP-LINK TECHNOLOGIES CO.,LTD.
+002596	GIGAVISION srl
+0025A6	Central Network Solution Co., Ltd.
+0025B6	Telecom FM
+0025C6	kasercorp, ltd
+0025D6	The Kroger Co.
+0025E6	Belgian Monitoring Systems bvba
+0025F6	netTALK.com, Inc.
+002606	RAUMFELD GmbH
+002616	Rosemount Inc.
+002626	Geophysical Survey Systems, Inc.
+002636	ARRIS Group, Inc.
+002646	SHENYANG TONGFANG MULTIMEDIA TECHNOLOGY COMPANY LIMITED
+002656	Sansonic Electronics USA
+002666	EFM Networks
+002676	COMMidt AS
+002686	Quantenna Communcations, Inc.
+002696	NOOLIX Co., Ltd
+0026A6	Trixell
+0026B6	ASKEY COMPUTER CORP
+0026C6	Intel Corporate
+0026D6	Ningbo Andy Optoelectronic Co., Ltd.
+0026E6	Visionhitech Co., Ltd.
+0026F6	Military Communication Institute
+002706	Yoisys
+002716	Adachi-Syokai Co., Ltd.
+002926	Applied Optoelectronics, Inc Taiwan Branch
+002D76	TITECH GmbH
+003006	SUPERPOWER COMPUTER
+003016	ISHIDA CO., LTD.
+003026	HeiTel Digital Video GmbH
+003036	RMP ELEKTRONIKSYSTEME GMBH
+003046	Controlled Electronic Manageme
+003056	Beck IPC GmbH
+003066	Rfm
+003076	Akamba Corporation
+003086	Transistor Devices, Inc.
+003096	Cisco Systems, Inc
+0030A6	VIANET TECHNOLOGIES, LTD.
+0030B6	Cisco Systems, Inc
+0030C6	CONTROL SOLUTIONS, INC.
+0030D6	MSC VERTRIEBS GMBH
+0030E6	Draeger Medical Systems, Inc.
+0030F6	SECURELOGIX CORPORATION
+003146	Juniper Networks
+003676	ARRIS Group, Inc.
+004006	SAMPO TECHNOLOGY CORPORATION
+004016	ADC - Global Connectivity Solutions Division
+004026	Melco Inc
+004036	TribeStar
+004046	UDC RESEARCH LIMITED
+004056	MCM JAPAN LTD.
+004066	Hitachi Cable, Ltd.
+004076	AMP Incorporated
+004086	Michels & Kleberhoff Computer
+004096	Cisco Systems, Inc.
+0040A6	Cray Research Inc.
+0040B6	Computerm Corporation
+0040C6	Fibernet Research, Inc.
+0040D6	LOCAMATION B.V.
+0040E6	C.A.E.N.
+0040F6	Katron Computers Inc
+005006	TAC AB
+005016	Molex Canada Ltd
+005026	COSYSTEMS, INC.
+005036	NETCAM, LTD.
+005046	MENICX INTERNATIONAL CO., LTD.
+005056	VMware, Inc.
+005066	AtecoM GmbH advanced telecomunication modules
+005076	IBM Corp
+005086	TELKOM SA, LTD.
+005096	SALIX TECHNOLOGIES, INC.
+0050A6	OPTRONICS
+0050B6	GOOD WAY IND. CO., LTD.
+0050C6	LOOP TELECOMMUNICATION INTERNATIONAL, INC.
+0050D6	ATLAS COPCO TOOLS AB
+0050E6	HAKUSAN CORPORATION
+0050F6	PAN-INTERNATIONAL INDUSTRIAL CORP.
+005F86	Cisco Systems, Inc
+006006	SOTEC CO., LTD
+006016	Clariion
+006026	VIKING Modular Solutions
+006036	AIT Austrian Institute of Technology GmbH
+006046	VMETRO, INC.
+006056	NETWORK TOOLS, INC.
+006066	LACROIX Trafic
+006076	SCHLUMBERGER TECHNOLOGIES RETAIL PETROLEUM SYSTEMS
+006086	LOGIC REPLACEMENT TECH. LTD.
+006096	T.S. MICROTECH INC.
+0060A6	PARTICLE MEASURING SYSTEMS
+0060B6	LAND COMPUTER CO., LTD.
+0060C6	DCS AG
+0060D6	NovAtel Inc.
+0060E6	SHOMITI SYSTEMS INCORPORATED
+0060F6	NEXTEST COMMUNICATIONS PRODUCTS, INC.
+0064A6	Maquet CardioVascular
+007686	Cisco Systems, Inc
+007E56	China Dragon Technology Limited
+008006	Compuadd Corporation
+008016	Wandel & Goltermann
+008026	Network Products Corporation
+008036	REFLEX MANUFACTURING SYSTEMS
+008046	University of Toronto
+008056	SPHINX Electronics GmbH & Co KG
+008066	ARCOM CONTROL SYSTEMS, LTD.
+008076	Mcnc
+008086	Computer Generation Inc.
+008096	HDS
+0080A6	Republic Technology Inc
+0080B6	Themis corporation
+0080C6	Soho
+0080D6	Apple Mac Portable(?)
+0080E6	PEER NETWORKS, INC.
+0080F6	SYNERGY MICROSYSTEMS
+008A96	Cisco Systems, Inc
+009006	Hamamatsu Photonics K.K.
+009016	Zac
+009026	ADVANCED SWITCHING COMMUNICATIONS, INC.
+009036	ens, inc.
+009046	DEXDYNE, LTD.
+009056	TELESTREAM, INC.
+009066	Troika Networks, Inc.
+009076	FMT AIRCRAFT GATE SUPPORT SYSTEMS AB
+009086	Cisco
+009096	ASKEY COMPUTER CORP
+0090A6	Cisco Systems, Inc
+0090B6	FIBEX SYSTEMS
+0090C6	OPTIM SYSTEMS, INC.
+0090D6	Crystal Group, Inc.
+0090E6	ALi Corporation
+0090F6	ESCALATE NETWORKS, INC.
+0091D6	Crystal Group, Inc.
+00A006	IMAGE DATA PROCESSING SYSTEM GROUP
+00A016	MICROPOLIS CORP.
+00A026	TELDAT, S.A.
+00A036	APPLIED NETWORK TECHNOLOGY
+00A046	SCITEX CORP. LTD.
+00A056	MICROPROSS
+00A066	ISA CO., LTD.
+00A076	CARDWARE LAB, INC.
+00A086	AMBER WAVE SYSTEMS, INC.
+00A096	MITSUMI ELECTRIC CO., LTD.
+00A0A6	M.I. SYSTEMS, K.K.
+00A0B6	SANRITZ AUTOMATION CO., LTD.
+00A0C6	Qualcomm Inc.
+00A0D6	SBE, Inc.
+00A0E6	DIALOGIC CORPORATION
+00A0F6	AutoGas Systems Inc.
+00B086	LocSoft Limited
+00B5D6	Omnibit Inc.
+00B9F6	Shenzhen Super Rich Electronics Co.,Ltd
+00C006	Nippon Avionics Co Ltd
+00C016	Electronic Theatre Controls
+00C026	LANS TECHNOLOGY CO., LTD.
+00C036	Raytech Electronic Corp
+00C046	Kemitron Ltd
+00C056	Somelec
+00C066	Docupoint, Inc.
+00C076	I-Data International A-S
+00C086	The Lynk Corporation
+00C096	Tamura Corporation
+00C0A6	EXICOM AUSTRALIA PTY. LTD
+00C0B6	Meridian Data Inc
+00C0C6	Personal Media Corp
+00C0D6	J1 Systems, Inc.
+00C0E6	Txport
+00C0F6	Celan Technology Inc.
+00C2C6	Intel Corporate
+00D006	Cisco Systems, Inc
+00D016	SCM MICROSYSTEMS, INC.
+00D026	HIRSCHMANN AUSTRIA GMBH
+00D036	TECHNOLOGY ATLANTA CORP.
+00D046	DOLBY LABORATORIES, INC.
+00D056	SOMAT CORPORATION
+00D066	WINTRISS ENGINEERING CORP.
+00D076	Bank of America
+00D086	FOVEON, INC.
+00D096	3COM EUROPE LTD.
+00D0A6	LANBIRD TECHNOLOGY CO., LTD.
+00D0B6	CRESCENT NETWORKS, INC.
+00D0C6	THOMAS & BETTS CORP.
+00D0D6	AETHRA TELECOMUNICAZIONI
+00D0E6	IBOND INC.
+00D0F6	Nokia
+00DD06	UNGERMANN-BASS INC.
+00E006	SILICON INTEGRATED SYS. CORP.
+00E016	rapid-city (now a part of bay networks)
+00E026	Redlake MASD LLC
+00E036	PIONEER CORPORATION
+00E046	BENTLY NEVADA CORP.
+00E056	HOLONTECH CORPORATION
+00E066	ProMax Systems, Inc.
+00E076	DEVELOPMENT CONCEPTS, INC.
+00E086	Emerson Network Power, Avocent Division
+00E096	SHIMADZU CORPORATION
+00E0A6	TELOGY NETWORKS, INC.
+00E0B6	Entrada Networks
+00E0C6	LINK2IT, L.L.C.
+00E0D6	COMPUTER & COMMUNICATION RESEARCH LAB.
+00E0E6	INCAA Computers
+00E0F6	DECISION EUROPE
+00E666	ARIMA Communications Corp.
+020406	BBN				internal usage (not registered)
+026086	Satelcom MegaPac (UK)
+0418B6	Private
+0418D6	Ubiquiti Networks Inc.
+042F56	ATOCS (Shenzhen) LTD
+044E06	Ericsson AB
+045C06	Zmodo Technology Corporation
+045D56	camtron industrial inc.
+0495E6	Tenda Technology Co.,Ltd.Dongguan branch
+0499E6	Shenzhen Yoostar Technology Co., Ltd
+049F06	Smobile Co., Ltd.
+04A316	Texas Instruments
+04B3B6	Seamap (UK) Ltd
+04B466	BSP Co., Ltd.
+04BA36	Li Seng Technology Ltd
+04DB56	Apple, Inc.
+04E536	Apple, Inc.
+04E676	AMPAK Technology, Inc.
+080006	Siemens Nixdorf			PC clone
+080016	BARRISTER INFO SYS CORP
+080026	Norsk Data (Nord)
+080036	Intergraph			CAE stations
+080046	Sony
+080056	Stanford University
+080066	AGFA				printers, phototypesetters etc.
+080076	PC LAN TECHNOLOGIES
+080086	Imagen/QMS
+0809B6	Masimo Corp
+081196	Intel Corporate
+0819A6	HUAWEI TECHNOLOGIES CO.,LTD
+083F76	Intellian Technologies, Inc.
+084656	Veo-Labs
+086266	ASUSTek COMPUTER INC.
+0874F6	Winterhalter Gastronom GmbH
+0C2026	noax Technologies AG
+0C2576	LONGCHEER TELECOMMUNICATION LIMITED
+0C3956	Observator instruments
+0C6076	Hon Hai Precision Ind. Co.,Ltd.
+0C6AE6	Stanley Security Solutions
+0C9D56	Consort Controls Ltd
+0CC9C6	Samwin Hong Kong Limited
+0CCC26	Airenetworks
+0CD696	Amimon Ltd
+0CD746	Apple, Inc.
+0CD996	Cisco Systems, Inc
+0CE936	ELIMOS srl
+0CEEE6	Hon Hai Precision Ind. Co.,Ltd.
+1010B6	McCain Inc
+102D96	Looxcie Inc.
+104B46	Mitsubishi Electric Corporation
+105F06	Actiontec Electronics, Inc
+107A86	U&U ENGINEERING INC.
+109266	Samsung Electronics Co.,Ltd
+109836	Dell Inc.
+10B7F6	Plastoform Industries Ltd.
+10C586	BIO SOUND LAB CO., LTD.
+140C76	FREEBOX SAS
+1414E6	Ningbo Sanhe Digital Co.,Ltd
+142BD6	Guangdong Appscomm Co.,Ltd
+1430C6	Motorola Mobility LLC, a Lenovo Company
+1436C6	Lenovo Mobile Communication Technology Ltd.
+144146	Honeywell (China) Co., LTD
+148FC6	Apple, Inc.
+14B126	Industrial Software Co
+14C126	Nokia Corporation
+181456	Nokia Corporation
+1820A6	Sage Co., Ltd.
+182666	Samsung Electronics Co.,Ltd
+1844E6	zte corporation
+185936	Xiaomi Communications Co Ltd
+188796	HTC Corporation
+18C086	Broadcom
+18D276	HUAWEI TECHNOLOGIES CO.,LTD
+18D5B6	SMG Holdings LLC
+18DC56	Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
+1C0656	IDY Corporation
+1C1D86	Cisco Systems, Inc
+1C4BD6	AzureWave Technology Inc.
+1C5216	DONGGUAN HELE ELECTRONICS CO., LTD
+1C52D6	FLAT DISPLAY TECHNOLOGY CORPORATION
+1C6E76	Quarion Technology Inc
+1C77F6	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+1C9C26	Zoovel Technologies
+1C9E46	Apple, Inc.
+1CC316	MileSight Technology Co., Ltd.
+1CC586	Absolute Acoustics
+201A06	COMPAL INFORMATION (KUNSHAN) CO., LTD.
+203706	Cisco Systems, Inc
+203D66	ARRIS Group, Inc.
+205476	Sony Mobile Communications AB
+208756	SIEMENS AG
+208986	zte corporation
+20B5C6	Mimosa Networks
+20BB76	COL GIOVANNI PAOLO SpA
+20BBC6	Jabil Circuit Hungary Ltd.
+20D906	Iota, Inc.
+20DCE6	TP-LINK TECHNOLOGIES CO.,LTD.
+20EEC6	Elefirst Science & Tech Co ., ltd
+246E96	Dell Inc.
+247656	Shanghai Net Miles Fiber Optics Technology Co., LTD.
+24C696	Samsung Electronics Co.,Ltd
+24DAB6	Sistemas de Gestión Energética S.A. de C.V
+24DEC6	Aruba Networks
+24ECD6	CSG Science & Technology Co.,Ltd.Hefei
+282246	Beijing Sinoix Communication Co., LTD
+282536	SHENZHEN HOLATEK CO.,LTD
+2826A6	PBR electronics GmbH
+283B96	Cool Control LTD
+284846	GridCentric Inc.
+286046	Lantech Communications Global, Inc.
+286336	Siemens-               # Siemens AG - Industrial Automation - EWA
+28A186	Enblink
+28BC56	EMAC, Inc.
+28D576	Premier Wireless, Inc.
+28DEF6	bioMerieux Inc.
+28E476	Pi-Coral
+28F076	Apple, Inc.
+28F366	Shenzhen Bilian electronic CO.,LTD
+28F606	Syes srl
+28FCF6	Shenzhen Xin KingBrand enterprises Co.,Ltd
+2C3796	CYBO CO.,LTD.
+2C3996	Sagemcom Broadband SAS
+2CEE26	Petroleum Geo-Services
+301966	Samsung Electronics Co.,Ltd
+3037A6	Cisco Systems, Inc
+303926	Sony Mobile Communications AB
+307496	HUAWEI TECHNOLOGIES CO.,LTD
+3092F6	SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD
+30AEF6	Radio Mobile Access
+30B216	Hytec Geraetebau GmbH
+30D386	zte corporation
+30DE86	Cedac Software S.r.l.
+30FFF6	HangZhou KuoHeng Technology Co.,ltd
+340286	Intel Corporate
+342606	CarePredict, Inc.
+348446	Ericsson AB
+3497F6	ASUSTek COMPUTER INC.
+34BB26	Motorola Mobility LLC, a Lenovo Company
+34BCA6	Beijing Ding Qing Technology, Ltd.
+380546	Foctek Photonics, Inc.
+381766	PROMZAKAZ LTD.
+382056	Cisco Systems, Inc
+3822D6	Hangzhou H3C Technologies Co., Limited
+3842A6	Ingenieurbuero Stahlkopf
+384B76	AIRTAME ApS
+385F66	Cisco SPVTG
+3863F6	3NOD MULTIMEDIA(SHENZHEN)CO.,LTD
+389496	Samsung Electronics Co.,Ltd
+3897D6	Hangzhou H3C Technologies Co., Limited
+38A5B6	SHENZHEN MEGMEET ELECTRICAL CO.,LTD
+38C096	ALPS ELECTRIC CO.,LTD.
+38C986	Apple, Inc.
+38FF36	Ruckus Wireless
+3C08F6	Cisco Systems, Inc
+3C3556	Cognitec Systems GmbH
+3C6716	Lily Robotics
+3C6816	VXi Corporation
+3C77E6	Hon Hai Precision Ind. Co.,Ltd.
+3C89A6	Kapelse
+3C9066	SmartRG, Inc.
+3CB9A6	Belden Deutschland GmbH
+3CC0C6	d&b audiotechnik GmbH
+3CC1F6	Melange Systems Pvt. Ltd.
+3CD4D6	WirelessWERX, Inc
+3CE5A6	Hangzhou H3C Technologies Co., Limited
+3CFB96	Emcraft Systems LLC
+4001C6	3COM EUROPE LTD
+404E36	HTC Corporation
+406186	MICRO-STAR INT'L CO.,LTD
+4062B6	Tele system communication
+406826	Thales UK Limited
+407496	aFUN TECHNOLOGY INC.
+408256	Continental Automotive GmbH
+408BF6	Shenzhen TCL New Technology Co; Ltd.
+40C4D6	ChongQing Camyu Technology Development Co.,Ltd.
+40E3D6	Aruba Networks
+4419B6	Hangzhou Hikvision Digital Technology Co.,Ltd.
+4437E6	Hon Hai Precision Ind. Co.,Ltd.
+446246	Comat AG
+4473D6	Logitech
+447E76	Trek Technology (S) Pte Ltd
+44BA46	SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+44C306	SIFROM Inc.
+44C346	HUAWEI TECHNOLOGIES CO.,LTD
+44F436	zte corporation
+485AB6	Hon Hai Precision Ind. Co.,Ltd.
+485D36	Verizon
+486276	HUAWEI TECHNOLOGIES CO.,LTD
+4891F6	Shenzhen Reach software technology CO.,LTD
+48C8B6	SysTec GmbH
+48DA96	Eddy Smart Home Solutions Inc.
+48EE86	UTStarcom (China) Co.,Ltd
+48FCB6	LAVA INTERNATIONAL(H.K) LIMITED
+4C3C16	Samsung Electronics Co.,Ltd
+4CAA16	AzureWave Technologies (Shanghai) Inc.
+4CD7B6	Helmer Scientific
+4CE676	BUFFALO.INC
+503F56	Syncmold Enterprise Corp
+505AC6	GUANGDONG SUPER TELECOM CO.,LTD.
+5061D6	Indu-Sol GmbH
+5076A6	Ecil Informatica Ind. Com. Ltda
+50C006	Carmanah Signs
+50E666	Shenzhen Techtion Electronics Co., Ltd.
+50EAD6	Apple, Inc.
+540496	Gigawave LTD
+5404A6	ASUSTek COMPUTER INC.
+540536	Vivago Oy
+541E56	Juniper Networks
+542696	Apple, Inc.
+544A16	Texas Instruments
+545146	AMG Systems Ltd.
+545AA6	Espressif Inc.
+5474E6	Webtech Wireless
+549A16	Uzushio Electric Co.,Ltd.
+54E3F6	Alcatel-               # Alcatel-Lucent
+54F5B6	ORIENTAL PACIFIC INTERNATIONAL LIMITED
+54F666	Berthold Technologies GmbH and Co.KG
+54F876	ABB AG
+54FA96	Nokia
+580556	Elettronica GF S.r.L.
+581626	Avaya Inc
+582136	KMB systems, s.r.o.
+583CC6	Omneality Ltd.
+585076	Linear Equipamentos Eletronicos SA
+5850E6	Best Buy Corporation
+586356	FN-LINK TECHNOLOGY LIMITED
+5865E6	INFOMARK CO., LTD.
+586ED6	Private
+5870C6	Shanghai Xiaoyi Technology Co., Ltd.
+587F66	HUAWEI TECHNOLOGIES CO.,LTD
+589396	Ruckus Wireless
+58E326	Compass Technologies Inc.
+58E476	CENTRON COMMUNICATIONS TECHNOLOGIES FUJIAN CO.,LTD
+58E636	EVRsafe Technologies
+58E876	IEEE Registration Authority
+58F496	Source Chain
+5C4A26	Enguity Technology Corp
+5C8486	Brightsource Industries Israel LTD
+5C9656	AzureWave Technology Inc.
+5CAF06	LG Electronics (Mobile Communications)
+5CB066	ARRIS Group, Inc.
+5CDC96	Arcadyan Technology Corporation
+5CE0F6	NIC.br- Nucleo de Informacao e Coordenacao do Ponto BR
+5CE286	Nortel Networks
+5CE3B6	Fiberhome Telecommunication Technologies Co.,LTD
+5CF286	IEEE Registration Authority
+5CF7E6	Apple, Inc.
+5CFC66	Cisco Systems, Inc
+601466	zte corporation
+603696	The Sapling Company
+604616	XIAMEN VANN INTELLIGENT CO., LTD
+604826	Newbridge Technologies Int. Ltd.
+606C66	Intel Corporate
+60B606	Phorus
+60E956	Ayla Networks, Inc
+60EFC6	Shenzhen Chima Technologies Co Limited
+60FD56	WOORISYSTEMS CO., Ltd
+640DE6	Petra Systems
+640E36	Taztag
+642216	Shandong Taixin Electronic co.,Ltd
+644346	GuangDong Quick Network Computer CO.,LTD
+645106	Hewlett Packard
+6474F6	Shooter Detection Systems
+64B0A6	Apple, Inc.
+64E8E6	global moisture management system
+6828F6	Vubiq Networks, Inc.
+685B36	POWERTECH INDUSTRIAL CO., LTD.
+688DB6	AETEK INC.
+68A0F6	HUAWEI TECHNOLOGIES CO.,LTD
+68DB96	OPWILL Technologies CO .,LTD
+68E166	Private
+68EE96	Cisco SPVTG
+68F956	Objetivos y Servicio de Valor Añadido
+6C09D6	Digiquest Electronics LTD
+6C0EE6	Chengdu Xiyida Electronic Technology Co,.Ltd
+6C2056	Cisco Systems, Inc
+6C2C06	OOO NPP Systemotechnika-NN
+6C40C6	Nimbus Data Systems, Inc.
+6C5976	Shanghai Tricheer Technology Co.,Ltd.
+6C6126	Rinicom Holdings
+6C8336	Samsung Electronics Co.,Ltd
+6C8366	Nanjing SAC Power Grid Automation Co., Ltd.
+6C8686	Technonia
+6CA906	Telefield Ltd
+6CD146	Smartek d.o.o.
+6CE3B6	Nera Telecommunications Ltd.
+6CEFC6	SHENZHEN TWOWING TECHNOLOGIES CO.,LTD.
+700136	FATEK Automation Corporation
+7014A6	Apple, Inc.
+702526	Nokia
+704E66	SHENZHEN FAST TECHNOLOGIES CO.,LTD
+705986	OOO TTV
+705AB6	COMPAL INFORMATION (KUNSHAN) CO., LTD.
+7085C6	ARRIS Group, Inc.
+709756	Happyelectronics Co.,Ltd
+709E86	X6D Limited
+70D6B6	Metrum Technologies
+70F176	Data Modul AG
+70F196	Actiontec Electronics, Inc
+70FF76	Texas Instruments
+743256	NT-ware Systemprg GmbH
+747336	MICRODIGTAL Inc
+747DB6	Aliwei Communications, Inc
+74A2E6	Cisco Systems, Inc
+74AE76	iNovo Broadband, Inc.
+74C246	Amazon Technologies Inc.
+74CE56	Packet Force Technology Limited Company
+74E1B6	Apple, Inc.
+74E7C6	ARRIS Group, Inc.
+74F726	Neuron Robotics
+784476	Zioncom Electronics (Shenzhen) Ltd.
+7864E6	Green Motive Technology Limited
+789966	Musilab Electronics (DongGuan)Co.,Ltd.
+78A106	TP-LINK TECHNOLOGIES CO.,LTD.
+78BEB6	Enhanced Vision
+78DDD6	C-Scape
+78E8B6	zte corporation
+7C0BC6	Samsung Electronics Co.,Ltd
+7C1476	Damall Technologies SAS
+7C3866	Texas Instruments
+7C3CB6	Shenzhen Homecare Technology Co.,Ltd.
+7C69F6	Cisco Systems, Inc
+7C6F06	Caterpillar Trimble Control Technologies
+7C7176	Wuxi iData Technology Company Ltd.
+7C8306	Glen Dimplex Nordic as
+7CBD06	AE REFUsol
+800A06	COMTEC co.,ltd
+803896	SHARP Corporation
+803FD6	bytes at work AG
+80B686	HUAWEI TECHNOLOGIES CO.,LTD
+80BAE6	Neets
+80C5E6	Microsoft Corporation
+80EA96	Apple, Inc.
+80FB06	HUAWEI TECHNOLOGIES CO.,LTD
+841766	Weifang GoerTek Electronics Co., Ltd
+841826	Osram GmbH
+841E26	KERNEL-I Co.,LTD
+843DC6	Cisco Systems, Inc
+844076	Drivenets
+8462A6	EuroCB (Phils), Inc.
+8463D6	Microsoft Corporation
+847616	Addat s.r.o.
+848336	Newrun
+848506	Apple, Inc.
+848E96	Embertec Pty Ltd
+849866	Samsung Electronics Co.,Ltd
+849CA6	Arcadyan Technology Corporation
+84A466	Samsung Electronics Co.,Ltd
+880FB6	Jabil Circuits India Pvt Ltd,-EHTP unit
+881036	Panodic(ShenZhen) Electronics Limted
+8844F6	Nokia Corporation
+886B76	CHINA HOPEFUL GROUP HOPEFUL ELECTRIC CO.,LTD
+887556	Cisco Systems, Inc
+889166	Viewcooper Corp.
+889676	TTC MARCONI s.r.o.
+8896B6	Global Fire Equipment S.A.
+889CA6	BTB Korea INC
+88A6C6	Sagemcom Broadband SAS
+88C626	Logitech, Inc
+88DC96	SENAO Networks, Inc.
+88E7A6	iKnowledge Integration Corp.
+88FED6	ShangHai WangYong Software Co., Ltd.
+8C0D76	HUAWEI TECHNOLOGIES CO.,LTD
+8C2FA6	Solid Optics B.V.
+8C7716	LONGCHEER TELECOMMUNICATION LIMITED
+8C8E76	taskit GmbH
+8C9236	Aus.Linx Technology Co., Ltd.
+8C99E6	TCT mobile ltd
+8CBFA6	Samsung Electronics Co.,Ltd
+8CEBC6	HUAWEI TECHNOLOGIES CO.,LTD
+8CEEC6	Precepscion Pty. Ltd.
+900D66	Digimore Electronics Co., Ltd
+902106	BSkyB Ltd
+903AE6	PARROT SA
+904506	Tokyo Boeki Medisys Inc.
+904716	RORZE CORPORATION
+905446	TES ELECTRONIC SOLUTIONS
+909916	ELVEES NeoTek OJSC
+90B686	Murata Manufacturing Co., Ltd.
+90C1C6	Apple, Inc.
+90CDB6	Hon Hai Precision Ind. Co.,Ltd.
+90DB46	E-LEAD ELECTRONIC CO., LTD
+90FBA6	Hon Hai Precision Ind. Co.,Ltd.
+9405B6	Liling FullRiver Electronics & Technology Ltd
+944696	BaudTec Corporation
+949426	Apple, Inc.
+94BA56	Shenzhen Coship Electronics Co., Ltd.
+94E226	D. ORtiz Consulting, LLC
+982D56	Resolution Audio
+983B16	AMPAK Technology, Inc.
+984246	SOL INDUSTRY PTE., LTD
+985D46	PeopleNet Communication
+9876B6	Adafruit
+987E46	Emizon Networks Limited
+989096	Dell Inc.
+98D686	Chyi Lee industry Co., ltd.
+98E476	Zentan
+9C3066	RWE Effizienz GmbH
+9C31B6	Kulite Semiconductor Products Inc
+9C3426	ARRIS Group, Inc.
+9C44A6	SwiftTest, Inc.
+9C4E36	Intel Corporate
+9C5B96	NMR Corporation
+9C9726	Technicolor
+9CB206	PROCENTEC
+9CC7A6	AVM GmbH
+9CE1D6	Junger Audio-Studiotechnik GmbH
+A007B6	Advanced Technical Support, Inc.
+A020A6	Espressif Inc.
+A02C36	FN-LINK TECHNOLOGY LIMITED
+A051C6	Avaya Inc
+A06986	Wellav Technologies Ltd
+A086C6	Xiaomi Communications Co Ltd
+A08D16	HUAWEI TECHNOLOGIES CO.,LTD
+A0EB76	AirCUVE Inc.
+A41566	Wei Fang Goertek Electronics Co.,Ltd
+A45D36	Hewlett Packard
+A46706	Apple, Inc.
+A470D6	Motorola Mobility LLC, a Lenovo Company
+A4BA76	HUAWEI TECHNOLOGIES CO.,LTD
+A4D856	Gimbal, Inc
+A4E0E6	FILIZOLA S.A. PESAGEM E AUTOMACAO
+A815D6	Shenzhen Meione Technology CO., LTD
+A81D16	AzureWave Technology Inc.
+A82066	Apple, Inc.
+A82BD6	Shina System Co., Ltd
+A860B6	Apple, Inc.
+A875D6	FreeTek International Co., Ltd.
+A893E6	JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LTD
+A898C6	Shinbo Co., Ltd.
+A8D236	Lightware Visual Engineering
+A8EF26	Tritonwave
+AC1826	Seiko Epson Corporation
+AC5036	Pi-Coral Inc
+AC60B6	Ericsson AB
+AC6706	Ruckus Wireless
+AC7236	Lexking Technology Co., Ltd.
+AC80D6	Hexatronic AB
+AC9A96	Lantiq Deutschland GmbH
+ACA016	Cisco Systems, Inc
+ACBEB6	Visualedge Technology Co., Ltd.
+ACD9D6	tci GmbH
+B01266	Futaba-Kikaku
+B03D96	Vision Valley FZ LLC
+B05216	Hon Hai Precision Ind. Co.,Ltd.
+B05706	Vallox Oy
+B068B6	Hangzhou OYE Technology Co. Ltd
+B0AA36	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+B40566	SP Best Corporation Co., LTD.
+B40AC6	DEXON Systems Ltd.
+B40E96	Heran
+B439D6	ProCurve Networking by HP
+B47356	Hangzhou Treebear Networking Co., Ltd.
+B49EE6	SHENZHEN TECHNOLOGY CO LTD
+B4B676	Intel Corporate
+B4CEF6	HTC Corporation
+B847C6	SanJet Technology Corp.
+B88EC6	Stateless Networks
+B8A386	D-Link International
+B8C716	Fiberhome Telecommunication Technologies Co.,LTD
+B8E856	Apple, Inc.
+BC15A6	Taiwan Jantek Electronics,Ltd.
+BC2846	NextBIT Computing Pvt. Ltd.
+BC28D6	Rowley Associates Limited
+BC39A6	CSUN System Technology Co.,LTD
+BC4486	Samsung Electronics Co.,Ltd
+BC5436	Apple, Inc.
+BC5FF6	SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+BC6A16	Tdvine
+BC6E76	Green Energy Options Ltd
+BC8556	Hon Hai Precision Ind. Co.,Ltd.
+BCA8A6	Intel Corporate
+BCA9D6	Cyber-Rain, Inc.
+BCBC46	SKS Welding Systems GmbH
+BCD5B6	d2d technologies
+C011A6	Fort-Telecom ltd.
+C02506	AVM GmbH
+C03896	Hon Hai Precision Ind. Co.,Ltd.
+C03D46	Shanghai Sango Network Technology Co.,Ltd
+C041F6	LG ELECTRONICS INC
+C064C6	Nokia Corporation
+C09D26	Topicon HK Lmd.
+C0BAE6	Application Solutions (Electronics and Vision) Ltd
+C0C3B6	Automatic Systems
+C0C946	MITSUYA LABORATORIES INC.
+C0C976	Shenzhen TINNO Mobile Technology Corp.
+C0F636	Hangzhou Kuaiyue Technologies, Ltd.
+C40006	Lipi Data Systems Ltd.
+C45006	Samsung Electronics Co.,Ltd
+C455A6	Cadac Holdings Ltd
+C45976	Fugoo Coorporation
+C47D46	FUJITSU LIMITED
+C4A366	zte corporation
+C4DA26	NOBLEX SA
+C802A6	Beijing Newmine Technology
+C81F66	Dell Inc.
+C83F26	Microsoft Corporation
+C85B76	LCFC(HeFei) Electronics Technology co., ltd
+C86CB6	Optcom Co., Ltd.
+C89346	MXCHIP Company Limited
+C8A1B6	Shenzhen Longway Technologies Co., Ltd
+C8C126	ZPM Industria e Comercio Ltda
+C8C2C6	Shanghai Airm2m Communication Technology Co., Ltd
+C8E776	PTCOM Technology
+C8EEA6	Shenzhen SHX Technology Co., Ltd
+C8F386	Shenzhen Xiaoniao Technology Co.,Ltd
+C8F406	Avaya Inc
+C8F946	LOCOSYS Technology Inc.
+C8FB26	Cisco SPVTG
+CC14A6	Yichun MyEnergy Domain, Inc
+CC46D6	Cisco Systems, Inc
+CC5076	Ocom Communications, Inc.
+D02516	SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+D0A0D6	Chengdu TD Tech Ltd.
+D0A5A6	Cisco Systems, Inc
+D0AFB6	Linktop Technology Co., LTD
+D0D286	Beckman Coulter K.K.
+D411D6	ShotSpotter, Inc.
+D41296	Anobit Technologies Ltd.
+D43266	Fike Corporation
+D45556	Fiber Mountain Inc.
+D47856	Avaya Inc
+D4C766	Acentic GmbH
+D4EC86	LinkedHope Intelligent Technologies Co., Ltd
+D814D6	SURE SYSTEM Co Ltd
+D82916	Ascent Communication Technology
+D82986	Best Wish Technology LTD
+D84606	Silicon Valley Global Marketing
+D850E6	ASUSTek COMPUTER INC.
+D866C6	Shenzhen Daystar Technology Co.,ltd
+D88466	Extreme Networks
+D8B6D6	Blu Tether Limited
+D8B8F6	Nantworks
+D8D866	SHENZHEN TOZED TECHNOLOGIES CO.,LTD.
+DC0856	Alcatel-               # Alcatel-Lucent Enterprise
+DC2B66	InfoBLOCK S.A. de C.V.
+DC2C26	Iton Technology Limited
+DC3CF6	Atomic Rules LLC
+DC56E6	Shenzhen Bococom Technology Co.,LTD
+DC5726	Power-One
+DC5E36	Paterson Technology
+DC82F6	Iport
+DCCF96	Samsung Electronics Co.,Ltd
+DCD916	HUAWEI TECHNOLOGIES CO.,LTD
+DCE026	Patrol Tag, Inc
+DCEC06	Heimi Network Technology Co., Ltd.
+DCEE06	HUAWEI TECHNOLOGIES CO.,LTD
+E006E6	Hon Hai Precision Ind. Co.,Ltd.
+E02636	Nortel Networks
+E03676	HUAWEI TECHNOLOGIES CO.,LTD
+E04136	MitraStar Technology Corp.
+E05DA6	Detlef Fink Elektronik & Softwareentwicklung
+E06066	Sercomm Corporation
+E09796	HUAWEI TECHNOLOGIES CO.,LTD
+E0C286	Aisai Communication Technology Co., Ltd.
+E0D1E6	Aliph dba Jawbone
+E0F5C6	Apple, Inc.
+E42C56	Lilee Systems, Ltd.
+E42F26	Fiberhome Telecommunication Technologies Co.,LTD
+E42F56	OptoMET GmbH
+E42FF6	Unicore communication Inc.
+E441E6	Ottec Technology GmbH
+E442A6	Intel Corporate
+E47E66	HUAWEI TECHNOLOGIES CO.,LTD
+E498D6	Apple, Inc.
+E4A1E6	Alcatel-               # Alcatel-Lucent Shanghai Bell Co., Ltd
+E4A8B6	HUAWEI TECHNOLOGIES CO.,LTD
+E4AB46	UAB Selteka
+E4C146	Objetivos y Servicios de Valor A
+E4C6E6	Mophie, LLC
+E4C806	Ceiec Electric Technology Inc.
+E4F4C6	Netgear
+E80036	Befs co,. ltd
+E83EB6	Rim
+E843B6	QNAP Systems, Inc.
+E84E06	EDUP INTERNATIONAL (HK) CO., LTD
+E856D6	NCTech Ltd
+E874E6	ADB Broadband Italia
+E894F6	TP-LINK TECHNOLOGIES CO.,LTD.
+E89606	testo Instruments (Shenzhen) Co., Ltd.
+E8CE06	SkyHawke Technologies, LLC.
+E8DA96	Zhuhai Tianrui Electrical Power Tech. Co., Ltd.
+E8DED6	Intrising Networks, Inc.
+E8E5D6	Samsung Electronics Co.,Ltd
+E8E776	Shenzhen Kootion Technology Co., Ltd
+E8F226	MILLSON CUSTOM SOLUTIONS INC.
+EC0ED6	ITECH INSTRUMENTS SAS
+EC14F6	BioControl AS
+EC1766	Research Centre Module
+EC3586	Apple, Inc.
+EC43E6	AWCER Ltd.
+EC43F6	ZyXEL Communications Corporation
+EC4476	Cisco Systems, Inc
+EC5A86	Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
+ECB106	Acuro Networks, Inc
+ECF236	NEOMONTANA ELECTRONICS
+F00786	Shandong Bittel Electronics Co., Ltd
+F07816	Cisco Systems, Inc
+F07F06	Cisco Systems, Inc
+F0F336	TP-LINK TECHNOLOGIES CO.,LTD.
+F41E26	Simon-Kaloi Engineering
+F42896	SPECTO PAINEIS ELETRONICOS LTDA
+F42C56	SENOR TECH CO LTD
+F47626	Viltechmeda UAB
+F485C6	FDT Technologies
+F49466	CountMax,  ltd
+F4C4D6	Shenzhen Xinfa Electronic Co.,ltd
+F4CE46	Hewlett Packard
+F4E926	Tianjin Zanpu Technology Inc.
+F4F646	Dediprog Technology Co. Ltd.
+F83376	Good Mind Innovation Co., Ltd.
+F88096	Elsys Equipamentos Eletrônicos Ltda
+F8B156	Dell Inc.
+F8D756	Simm Tronic Limited
+F8F1B6	Motorola Mobility LLC, a Lenovo Company
+FC09F6	GUANGDONG TONZE ELECTRIC CO.,LTD
+FC0FE6	Sony Interactive Entertainment Inc.
+FC10C6	Taicang T&W Electronics
+FC1186	Logic3 plc
+FC1E16	IPEVO corp
+FC35E6	Visteon corp
+FC4596	COMPAL INFORMATION (KUNSHAN) CO., LTD.
+FC5B26	MikroBits
+FC7516	D-Link International
+FC75E6	Handreamnet
+FC83C6	N-Radio Technologies Co., Ltd.
+FCA386	SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+FCB4E6	ASKEY COMPUTER CORP
+FCD4F6	Messana Air.Ray Conditioning s.r.l.
+FCDB96	ENERVALLEY CO., LTD
+FCE186	A3M Co., LTD
+FCF136	Samsung Electronics Co.,Ltd

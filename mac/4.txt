@@ -1,0 +1,1412 @@
+000004	XEROX CORPORATION
+000014	Netronix
+000024	Olicom
+000034	NETWORK RESOURCES CORPORATION
+000044	Castelle
+000054	Schneider Electric
+000064	Yokogawa Digital Computer Corp
+000074	RICOH COMPANY LTD.
+000084	Aquila (?), ADI Systems Inc.(?)
+000094	Asante				MAC
+0000A4	Acorn
+0000B4	Edimax
+0000C4	WATERS DIV. OF MILLIPORE
+0000D4	Puredata
+0000E4	Mips?
+0000F4	Allied Telesis, Inc.
+000104	DVICO Co., Ltd.
+000114	KANDA TSUSHIN KOGYO CO., LTD.
+000124	Acer Incorporated
+000134	Selectron Systems AG
+000144	EMC Corporation
+000154	G3M Corporation
+000164	Cisco Systems, Inc
+000174	CyberOptics Corporation
+000184	SIEB & MEYER AG
+000194	Capital Equipment Corporation
+0001A4	Microlink Corporation
+0001B4	Wayport, Inc.
+0001C4	NeoWave, Inc.
+0001D4	Leisure Time, Inc.
+0001E4	Sitera, Inc.
+0001F4	Enterasys
+000204	Novell
+000214	Dtvro
+000224	C-Cor
+000234	Imperial Technology, Inc.
+000244	SURECOM Technology Co.
+000254	WorldGate
+000264	AudioRamp.com
+000274	Tommy Technologies Corp.
+000284	AREVA T&D
+000294	Tokyo Sokushin Co., Ltd.
+0002A4	AddPac Technology Co., Ltd.
+0002B4	Daphne
+0002C4	Vector International BVBA
+0002D4	PDA Peripherals, Inc.
+0002E4	JC HYUN Systems, Inc.
+0002F4	PCTEL, Inc.
+000304	Pacific Broadband Communications
+000314	Teleware Network Systems
+000324	SANYO Consumer Electronics Co., Ltd.
+000334	Newport Electronics
+000344	Tietech.Co., Ltd.
+000354	Fiber Logic Communications
+000364	Scenix Semiconductor, Inc.
+000374	Control Microsystems
+000384	Aeta
+000394	Connect One
+0003A4	Imation Corp.
+0003B4	Macrotek International Corp.
+0003C4	Tomra Systems ASA
+0003D4	Alloptic, Inc.
+0003E4	Cisco Systems, Inc
+0003F4	NetBurner
+000404	Makino Milling Machine Co., Ltd.
+000414	Umezawa Musen Denki Co., Ltd.
+000424	TMC s.r.l.
+000434	Accelent Systems, Inc.
+000444	Western Multiplex Corporation
+000454	Quadriga UK
+000464	Pulse-Link Inc
+000474	Legrand
+000484	Amann GmbH
+000494	Breezecom, Ltd.
+0004A4	NetEnabled, Inc.
+0004B4	Ciac
+0004C4	Allen & Heath Limited
+0004D4	Proview Electronics Co., Ltd.
+0004E4	Daeryung Ind., Inc.
+0004F4	Infinite Electronics Inc.
+000504	Naray Information & Communication Enterprise
+000514	KDT Systems Co., Ltd.
+000524	BTL System (HK) Limited
+000534	Northstar Engineering Ltd.
+000544	Valley Technologies, Inc.
+000554	Rangestar Wireless
+000564	Tsinghua Bitway Co., Ltd.
+000574	Cisco Systems, Inc
+000584	AbsoluteValue Systems, Inc.
+000594	HMS Industrial Networks
+0005A4	Lucid Voice Ltd.
+0005B4	Aceex Corporation
+0005C4	Telect, Inc.
+0005D4	FutureSmart Networks, Inc.
+0005E4	Red Lion Controls Inc.
+0005F4	System Base Co., Ltd.
+000604	@Track Communications, Inc.
+000614	Prism Holdings
+000624	Gentner Communications Corp.
+000634	GTE Airfone Inc.
+000644	neix,Inc
+000654	Winpresa Building Automation Technologies GmbH
+000664	Fostex Corporation
+000674	Spectrum Control, Inc.
+000684	Biacore AB
+000694	Mobillian Corporation
+0006A4	INNOWELL Corp.
+0006B4	Vorne Industries, Inc.
+0006C4	Piolink Inc.
+0006D4	Interactive Objects, Inc.
+0006E4	Citel Technologies Ltd.
+0006F4	Prime Electronics & Satellitics Inc.
+000704	ALPS ELECTRIC CO.,LTD.
+000714	Brightcom
+000724	Telemax Co., Ltd.
+000734	ONStor, Inc.
+000744	Unico, Inc.
+000754	Xyterra Computing, Inc.
+000764	YoungWoo Telecom Co. Ltd.
+000774	GuangZhou Thinker Technology Co. Ltd.
+000784	Cisco Systems, Inc
+000794	Simple Devices, Inc.
+0007A4	GN Netcom Ltd.
+0007B4	Cisco Systems, Inc
+0007C4	JEAN Co. Ltd.
+0007D4	Zhejiang Yutong Network Communication Co Ltd.
+0007E4	SoftRadio Co., Ltd.
+0007F4	Eletex Co., Ltd.
+000804	ICA Inc.
+000814	TIL Technologies
+000824	Nuance Document Imaging
+000854	Netronix, Inc.
+000864	Fasy S.p.A.
+000874	Dell Inc.
+000884	Index Braille AB
+000894	InnoVISION Multimedia Ltd.
+0008A4	Cisco Systems, Inc
+0008B4	Syspol
+0008C4	Hikari Co.,Ltd.
+0008D4	IneoQuest Technologies, Inc
+0008E4	Envenergy Inc
+0008F4	Bluetake Technology Co., Ltd.
+000904	MONDIAL electronic
+000914	COMPUTROLS INC.
+000924	Telebau GmbH
+000934	Dream-Multimedia-Tv GmbH
+000944	Cisco Systems, Inc
+000954	AMiT spol. s. r. o.
+000964	Hi-Techniques, Inc.
+000974	Innopia Technologies, Inc.
+000984	MyCasa Network Inc.
+000994	Cronyx Engineering
+0009A4	HARTEC Corporation
+0009B4	KISAN TELECOM CO., LTD.
+0009C4	Medicore Co., Ltd
+0009D4	Transtech Networks
+0009E4	K Tech Infosystem Inc.
+0009F4	Alcon Laboratories, Inc.
+000A04	3Com Ltd
+000A14	TECO a.s.
+000A24	Octave Communications
+000A34	Identicard Systems Incorporated
+000A44	Avery Dennison Deutschland GmbH
+000A54	Laguna Hills, Inc.
+000A64	Eracom Technologies
+000A74	Manticom Networks Inc.
+000A84	Rainsun Enterprise Co., Ltd.
+000A94	ShangHai cellink CO., LTD
+000AA4	SHANGHAI SURVEILLANCE TECHNOLOGY CO,LTD
+000AB4	ETIC Telecommunications
+000AC4	Daewoo Teletech Co., Ltd
+000AD4	CoreBell Systems Inc.
+000AE4	Wistron Corporation
+000AF4	Cisco Systems, Inc
+000B04	Volktek Corporation
+000B14	ViewSonic Corporation
+000B24	Airlogic
+000B34	ShangHai Broadband Technologies CO.LTD
+000B44	Concord IDea Corp.
+000B54	BiTMICRO Networks, Inc.
+000B64	Kieback & Peter GmbH & Co KG
+000B74	Kingwave Technology Co., Ltd.
+000B84	Bodet
+000B94	Digital Monitoring Products, Inc.
+000BA4	Shiron Satellite Communications Ltd. (1996)
+000BB4	RDC Semiconductor Inc.,
+000BC4	BIOTRONIK GmbH & Co
+000BD4	Beijing Wise Technology & Science Development Co.Ltd
+000BE4	Hosiden Corporation
+000BF4	Private
+000C04	Tecnova
+000C14	Diagnostic Instruments, Inc.
+000C24	Anator
+000C34	Vixen Co., Ltd.
+000C44	Automated Interfaces, Inc.
+000C54	Pedestal Networks, Inc
+000C64	X2 MSA Group
+000C74	RIVERTEC CORPORATION
+000C84	Eazix, Inc.
+000C94	United Electronic Industries, Inc. (EUI)
+000CA4	Prompttec Product Management GmbH
+000CB4	AutoCell Laboratories, Inc.
+000CC4	Tiptel AG
+000CD4	Positron Public Safety Systems inc.
+000CE4	NeuroCom International, Inc.
+000CF4	AKATSUKI ELECTRIC MFG.CO.,LTD.
+000D04	Foxboro Eckardt Development GmbH
+000D14	Vtech Innovation LP dba Advanced American Telephones
+000D24	SentecE&               # SENTEC E&E CO., LTD.
+000D34	Shell International Exploration and Production, Inc.
+000D44	AudioBu-               # Audio BU - Logitech
+000D54	3Com Ltd
+000D64	COMAG Handels AG
+000D74	Sand Network Systems, Inc.
+000D84	Makus Inc.
+000D94	AFAR Communications,Inc
+000DA4	DOSCH & AMAND SYSTEMS AG
+000DB4	Netasq
+000DC4	Emcore Corporation
+000DD4	Symantec Corporation
+000DE4	DIGINICS, Inc.
+000DF4	Watertek Co.
+000E04	CMA/Microdialysis AB
+000E14	Visionary Solutions, Inc.
+000E24	Huwell Technology Inc.
+000E34	NexGen City, LP
+000E44	Digital 5, Inc.
+000E54	AlphaCell Wireless Ltd.
+000E64	Elphel, Inc
+000E74	Solar Telecom. Tech
+000E84	Cisco Systems, Inc
+000E94	Maas International BV
+000EA4	Certance Inc.
+000EB4	GUANGZHOU GAOKE COMMUNICATIONS TECHNOLOGY CO.LTD.
+000EC4	Iskra Transmission d.d.
+000ED4	CRESITT INDUSTRIE
+000EE4	BOE TECHNOLOGY GROUP CO.,LTD
+000EF4	Kasda Networks Inc
+000F04	cim-usa inc
+000F14	Mindray Co., Ltd.
+000F24	Cisco Systems, Inc
+000F34	Cisco Systems, Inc
+000F44	Tivella Inc.
+000F54	Entrelogic Corporation
+000F64	D&R Electronica Weesp BV
+000F74	Qamcom Technology AB
+000F84	Astute Networks, Inc.
+000F94	Genexis BV
+000FA4	Sprecher Automation GmbH
+000FB4	Timespace Technology
+000FC4	NST co.,LTD.
+000FD4	Soundcraft
+000FE4	Pantech Co.,Ltd
+000FF4	Guntermann & Drunck GmbH
+001004	THE BRANTLEY COILE COMPANY,INC
+001014	Cisco Systems, Inc
+001024	NAGOYA ELECTRIC WORKS CO., LTD
+001034	GNP Computers
+001044	InnoLabs Corporation
+001054	Cisco Systems, Inc
+001064	DNPG, LLC
+001074	ATEN INTERNATIONAL CO., LTD.
+001084	K-BOT COMMUNICATIONS
+001094	Performance Analysis Broadband, Spirent plc
+0010A4	Xircom				RealPort 10/100 PC Card
+0010B4	ATMOSPHERE NETWORKS
+0010C4	MEDIA GLOBAL LINKS CO., LTD.
+0010D4	STORAGE COMPUTER CORPORATION
+0010E4	NSI CORPORATION
+0010F4	Vertical Communications
+001104	Telexy
+001114	EverFocus Electronics Corp.
+001124	Apple, Inc.
+001134	MediaCell, Inc.
+001144	Assurance Technology Corp
+001154	Webpro Technologies Inc.
+001164	ACARD Technology Corp.
+001174	Mojo Networks, Inc.
+001184	Humo Laboratory,Ltd.
+001194	Chi Mei Communication Systems, Inc.
+0011A4	JStream Technologies Inc.
+0011B4	Westermo Teleindustri AB
+0011C4	Terminales de Telecomunicacion Terrestre, S.L.
+0011D4	NetEnrich, Inc
+0011E4	Danelec Electronics A/S
+0011F4	woori-net
+001204	u10 Networks, Inc.
+001214	Koenig & Bauer AG
+001224	NexQL Corporation
+001234	Camille Bauer
+001244	Cisco Systems, Inc
+001254	Spectra Technologies Holdings Company Ltd
+001264	daum electronic gmbh
+001274	NIT lab
+001284	Lab33 Srl
+001294	SUMITOMO ELECTRIC DEVICE INNOVATIONS, INC
+0012A4	ThingMagic, LLC
+0012B4	Work Microwave GmbH
+0012C4	Viseon, Inc.
+0012D4	Princeton Technology, Ltd
+0012E4	ZIEHL industrie-electronik GmbH + Co KG
+0012F4	Belco International Co.,Ltd.
+001304	Flaircomm Technologies Co. LTD
+001314	Asiamajor Inc.
+001324	Schneider Electric Ultra Terminal
+001334	Arkados, Inc.
+001344	Fargo Electronics Inc.
+001354	Zcomax Technologies, Inc.
+001364	Paradigm Technology Inc..
+001374	Atheros Communications, Inc.
+001384	Advanced Motion Controls
+001394	Infohand Co.,Ltd
+0013A4	KeyEye Communications
+0013B4	Appear TV
+0013C4	Cisco Systems, Inc
+0013D4	ASUSTek COMPUTER INC.
+0013E4	YANGJAE SYSTEMS CORP.
+0013F4	Psitek (Pty) Ltd
+001404	ARRIS Group, Inc.
+001414	Jumpnode Systems LLC.
+001424	Merry Electrics CO., LTD.
+001434	Keri Systems, Inc
+001444	Grundfos Holding
+001454	Symwave
+001464	Cryptosoft
+001474	K40 Electronics
+001484	Cermate Technologies Inc.
+001494	ESU AG
+0014A4	Hon Hai Precision Ind. Co.,Ltd.
+0014B4	General Dynamics United Kingdom Ltd
+0014C4	Vitelcom Mobile Technology
+0014D4	K Technology Corporation
+0014E4	infinias, LLC
+0014F4	DekTec Digital Video B.V.
+001504	GAME PLUS CO., LTD.
+001514	Hu Zhou NAVA Networks&Electronics Ltd.
+001524	Numatics, Inc.
+001534	A Beltrónica-Companhia de Comunicações, Lda
+001544	coM.s.a.t. AG
+001554	Atalum Wireless S.A.
+001564	BEHRINGER Spezielle Studiotechnik GmbH
+001574	Horizon Semiconductors Ltd.
+001584	Schenck Process GmbH
+001594	BIXOLON CO.,LTD
+0015A4	ARRIS Group, Inc.
+0015B4	Polymap  Wireless LLC
+0015C4	FLOVEL CO., LTD.
+0015D4	Emitor AB
+0015E4	Zimmer Elektromedizin
+0015F4	Eventide
+001604	Sigpro
+001614	Picosecond Pulse Labs
+001624	Teneros, Inc.
+001634	Mathtech, Inc.
+001644	LITE-ON Technology Corp.
+001654	Flex-P Industries Sdn. Bhd.
+001664	Prod-El SpA
+001674	EuroCB (Phils.), Inc.
+001684	Donjin Co.,Ltd.
+001694	Sennheiser Communications A/S
+0016A4	Ezurio Ltd
+0016B4	Private
+0016C4	SiRF Technology, Inc.
+0016D4	Compal Communications, Inc.
+0016E4	VANGUARD SECURITY ENGINEERING CORP.
+0016F4	Eidicom Co., Ltd.
+001704	Shinco Electronics Group Co.,Ltd
+001714	BR Controls Nederland bv
+001724	Studer Professional Audio GmbH
+001734	ADC Telecommunications
+001744	Araneo Ltd.
+001754	Arkino HiTOP Corporation Limited
+001764	ATMedia GmbH
+001774	Elesta GmbH
+001784	ARRIS Group, Inc.
+001794	Cisco Systems, Inc
+0017A4	Hewlett Packard
+0017B4	Remote Security Systems, LLC
+0017C4	Quanta Microsystems, INC.
+0017D4	Monsoon Multimedia, Inc
+0017E4	Texas Instruments
+0017F4	ZERON ALLIANCE
+001804	E-TEK DIGITAL TECHNOLOGY LIMITED
+001814	Mitutoyo Corporation
+001824	Kimaldi Electronics, S.L.
+001834	Texas Instruments
+001844	Heads Up Technologies, Inc.
+001854	Argard Co., Ltd
+001864	Eaton Corporation
+001874	Cisco Systems, Inc
+001884	Fon Technology S.L.
+001894	NPCore, Inc.
+0018A4	ARRIS Group, Inc.
+0018B4	Dawon Media Inc.
+0018C4	Raba Technologies LLC
+0018D4	Unified Display Interface SIG
+0018E4	Yiguang
+0018F4	EO TECHNICS Co., Ltd.
+001904	WB Electronics Sp. z o.o.
+001914	Winix Co., Ltd
+001924	LBNL  Engineering
+001934	TRENDON TOUCH TECHNOLOGY CORP.
+001944	Fossil Partners, L.P.
+001954	Leaf Corporation.
+001964	Doorking Inc.
+001974	16063
+001984	ESTIC Corporation
+001994	Jorjin Technologies Inc.
+0019A4	Austar Technology (hang zhou) Co.,Ltd
+0019B4	Intellio Ltd
+0019C4	Infocrypt Inc.
+0019D4	ICX Technologies
+0019E4	2Wire Inc
+0019F4	Convergens Oy Ltd
+001A04	Interay Solutions BV
+001A14	Xin Hua Control Engineering Co.,Ltd.
+001A24	Galaxy Telecom Technologies Ltd
+001A34	Konka Group Co., Ltd.
+001A44	JWTrading Co., Ltd
+001A54	Hip Shing Electronics Ltd.
+001A64	IBM Corp
+001A74	Procare International Co
+001A84	V One Multimedia Pte Ltd
+001A94	Votronic GmbH
+001AA4	Future University-Hakodate
+001AB4	FFEI Ltd.
+001AC4	2Wire Inc
+001AD4	iPOX Technology Co., Ltd.
+001AE4	Medicis Technologies Corporation
+001AF4	Handreamnet
+001B04	Affinity International S.p.a
+001B14	Carex Lighting Equipment Factory
+001B24	QUANTA COMPUTER INC.
+001B34	Focus System Inc.
+001B44	SanDisk Corporation
+001B54	Cisco Systems, Inc
+001B64	IsaacLandKorea Co., Ltd,
+001B74	MiraLink Corporation
+001B84	Scan Engineering Telecom
+001B94	T.E.M.A. S.p.A.
+001BA4	S.A.E Afikim
+001BB4	Airvod Limited
+001BC4	Ultratec, Inc.
+001BD4	Cisco Systems, Inc
+001BE4	TOWNET SRL
+001BF4	KENWIN INDUSTRIAL(HK) LTD.
+001C04	Airgain, Inc.
+001C14	VMware, Inc.
+001C24	Formosa Wireless Systems Corp.
+001C34	HUEY CHIAO INTERNATIONAL CO., LTD.
+001C44	Bosch Security Systems BV
+001C54	Hillstone Networks Inc
+001C64	Landis+Gyr
+001C74	Syswan Technologies Inc.
+001C84	STL Solution Co.,Ltd.
+001C94	LI-COR Biosciences
+001CA4	Sony Mobile Communications AB
+001CB4	Iridium Satellite LLC
+001CC4	Hewlett Packard
+001CD4	Nokia Danmark A/S
+001CE4	EleSy JSC
+001CF4	Media Technology Systems Inc
+001D04	Zipit Wireless, Inc.
+001D14	SPERADTONE INFORMATION TECHNOLOGY LIMITED
+001D24	Aclara Power-Line Systems Inc.
+001D34	SYRIS Technology Corp
+001D44	Krohne
+001D54	Sunnic Technology & Merchandise INC.
+001D64	Adam Communications Systems Int Ltd
+001D74	Tianjin China-Silicon Microelectronics Co., Ltd.
+001D84	Gateway, Inc.
+001D94	Climax Technology Co., Ltd
+001DA4	Hangzhou System Technology CO., LTD
+001DB4	KUMHO ENG CO.,LTD
+001DC4	AIOI Systems Co., Ltd.
+001DD4	ARRIS Group, Inc.
+001DE4	Visioneered Image Systems
+001DF4	Magellan Technology Pty Limited
+001E04	Hanson Research Corporation
+001E14	Cisco Systems, Inc
+001E24	Zhejiang Bell Technology Co.,ltd
+001E34	CryptoMetrics
+001E44	Santec
+001E54	TOYO ELECTRIC Corporation
+001E64	Intel Corporate
+001E74	Sagemcom Broadband SAS
+001E84	Pika Technologies Inc.
+001E94	SUPERCOM TECHNOLOGY CORPORATION
+001EA4	Nokia Danmark A/S
+001EB4	UNIFAT TECHNOLOGY LTD.
+001EC4	Celio Corp
+001ED4	Doble Engineering
+001EE4	ACS Solutions France
+001EF4	L-3 Communications Display Systems
+001F04	Granch Ltd.
+001F14	Nexg
+001F24	DIGITVIEW TECHNOLOGY CO., LTD.
+001F34	Lung Hwa Electronics Co., Ltd.
+001F44	GE Transportation Systems
+001F54	Lorex Technology Inc.
+001F64	Beijing Autelan Technology Inc.
+001F74	Eigen Development
+001F84	Gigle Semiconductor
+001F94	Lascar Electronics Ltd
+001FA4	SHENZHEN GONGJIN ELECTRONICS CO.,LT
+001FB4	SmartShare Systems
+001FC4	ARRIS Group, Inc.
+001FD4	4IPNET, INC.
+001FE4	Sony Mobile Communications AB
+001FF4	Power Monitors, Inc.
+002004	YAMATAKE-HONEYWELL CO., LTD.
+002014	GLOBAL VIEW CO., LTD.
+002024	PACIFIC COMMUNICATION SCIENCES
+002034	ROTEC INDUSTRIEAUTOMATION GMBH
+002044	GENITECH PTY LTD
+002054	Sycamore Networks
+002064	PROTEC MICROSYSTEMS, INC.
+002074	SUNGWOON SYSTEMS
+002084	OCE PRINTING SYSTEMS, GMBH
+002094	Cubix Corporation
+0020A4	MULTIPOINT NETWORKS
+0020B4	TERMA ELEKTRONIK AS
+0020C4	INET,INC.
+0020D4	Cabletron Systems, Inc.
+0020E4	HSING TECH ENTERPRISE CO., LTD
+0020F4	SPECTRIX CORPORATION
+002104	Gigaset Communications GmbH
+002114	Hylab Technology Inc.
+002124	Optos Plc
+002134	Brandywine Communications
+002144	SS Telecoms
+002154	D-TACQ Solutions Ltd
+002164	Special Design Bureau for Seismic Instrumentation
+002174	AvaLAN Wireless
+002184	POWERSOFT SRL
+002194	Ping Communication
+0021A4	Dbii Networks
+0021B4	APRO MEDIA CO., LTD
+0021C4	Consilium AB
+0021D4	Vollmer Werke GmbH
+0021E4	I-Win
+0021F4	INRange Systems, Inc
+002204	Koratek
+002214	RINNAI KOREA
+002224	Good Will Instrument Co., Ltd.
+002234	Corventis Inc.
+002244	Chengdu Linkon Communications Device Co., Ltd
+002254	Bigelow Aerospace
+002264	Hewlett Packard
+002274	FamilyPhone AB
+002284	DESAY A&V SCIENCE AND TECHNOLOGY CO.,LTD
+002294	Kyocera Corporation
+0022A4	2Wire Inc
+0022B4	ARRIS Group, Inc.
+0022C4	epro GmbH
+0022D4	ComWorth Co., Ltd.
+0022E4	APASS TECHNOLOGY CO., LTD.
+0022F4	AMPAK Technology, Inc.
+002304	Cisco Systems, Inc
+002314	Intel Corporate
+002324	G-PRO COMPUTER
+002334	Cisco Systems, Inc
+002344	Objective Interface Systems, Inc.
+002354	ASUSTek COMPUTER INC.
+002364	Power Instruments Pte Ltd
+002374	ARRIS Group, Inc.
+002384	GGH Engineering s.r.l.
+002394	Samjeon
+0023A4	New Concepts Development Corp.
+0023B4	Nokia Danmark A/S
+0023C4	Lux Lumen
+0023D4	Texas Instruments
+0023E4	IPnect co. ltd.
+0023F4	Masternaut
+002404	Nokia Danmark A/S
+002414	Cisco Systems, Inc
+002424	Axis Network Technology
+002434	Lectrosonics, Inc.
+002444	Nintendo Co., Ltd.
+002454	Samsung Electronics Co.,Ltd
+002464	Bridge Technologies Co AS
+002474	Autronica Fire And Securirty
+002484	Bang and Olufsen Medicom a/s
+002494	Shenzhen Baoxin Tech CO., Ltd.
+0024A4	Siklu Communication
+0024B4	ESCATRONIC GmbH
+0024C4	Cisco Systems, Inc
+0024D4	FREEBOX SAS
+0024E4	Withings
+0024F4	Kaminario, Ltd.
+002504	Valiant Communications Limited
+002514	PC Worth Int'l Co., Ltd.
+002524	Lightcomm Technology Co., Ltd
+002544	LoJack Corporation
+002554	Pixel8 Networks
+002564	Dell Inc.
+002574	KUNIMI MEDIA DEVICE Co., Ltd.
+002584	Cisco Systems, Inc
+002594	Eurodesign BG LTD
+0025A4	EuroDesign embedded technologies GmbH
+0025B4	Cisco Systems, Inc
+0025C4	Ruckus Wireless
+0025D4	General Dynamics Mission Systems
+0025E4	OMNI-WiFi, LLC
+0025F4	KoCo Connector AG
+002604	Audio Processing Technology Ltd
+002614	Ktnf
+002624	Thomson Inc.
+002634	Infineta Systems, Inc
+002644	Thomson Telecom Belgium
+002654	3Com Corporation
+002664	Core System Japan
+002674	Electronic Solutions, Inc.
+002684	KISAN SYSTEM
+002694	Senscient Ltd
+0026A4	Novus Produtos Eletronicos Ltda
+0026B4	Ford Motor Company
+0026C4	Cadmos microsystems S.r.l.
+0026D4	IRCA SpA
+0026E4	Canal+                 # Canal +
+0026F4	Nesslab
+002704	Accelerated Concepts, Inc
+002714	Grainmustards, Co,ltd.
+003004	LEADTEK RESEARCH INC.
+003014	DIVIO, INC.
+003024	Cisco Systems, Inc
+003034	SET ENGINEERING
+003044	CradlePoint, Inc
+003054	CASTLENET TECHNOLOGY, INC.
+003064	ADLINK TECHNOLOGY, INC.
+003074	EQUIINET LTD.
+003084	ALLIED TELESYN INTERNAIONAL
+003094	Cisco Systems, Inc
+0030A4	Woodwind Communications System
+0030B4	INTERSIL CORP.
+0030C4	Canon Imaging Systems Inc.
+0030D4	AAE Systems, Inc.
+0030E4	CHIYODA SYSTEM RIKEN
+0030F4	STARDOT TECHNOLOGIES
+004004	ICM CO. LTD.
+004014	Comsoft Gmbh
+004024	COMPAC INC.
+004034	BUSTEK CORPORATION
+004044	QNIX COMPUTER CO., LTD.
+004054	Thinking Machines Corporation
+004064	KLA INSTRUMENTS CORPORATION
+004074	Cable and Wireless
+004084	HONEYWELL ACS
+004094	Shographics Inc
+0040A4	Rose Electronics
+0040B4	3COM K.K.
+0040C4	KINKEI SYSTEM CORPORATION
+0040D4	Gage Talker Corp.
+0040E4	E-M TECHNOLOGY, INC.
+0040F4	Cameo Communications, Inc.
+0041B4	Wuxi Zhongxing Optoelectronics Technology Co.,Ltd.
+004854	Digital SemiConductor		21143/2 based 10/100
+005004	3com				3C90X
+005014	Cisco Systems, Inc
+005024	NAVIC SYSTEMS, INC.
+005044	ASACA CORPORATION
+005054	Cisco Systems, Inc
+005064	CAE ELECTRONICS
+005074	ADVANCED HI-TECH CORP.
+005084	ATL PRODUCTS
+005094	ARRIS Group, Inc.
+0050A4	IO TECH, INC.
+0050B4	SATCHWELL CONTROL SYSTEMS, LTD
+0050C4	Imd
+0050D4	JOOHONG INFORMATION &
+0050E4	Apple, Inc.
+0050F4	SIGMATEK GMBH & CO. KG
+006004	COMPUTADORES MODULARES SA
+006014	EDEC CO., LTD.
+006024	GRADIENT TECHNOLOGIES, INC.
+006034	ROBERT BOSCH GmbH
+006044	LITTON/POLY-SCIENTIFIC
+006054	CONTROLWARE GMBH
+006064	NETCOMM LIMITED
+006074	QSC LLC
+006084	DIGITAL VIDEO
+006094	AMD PCNET PCI
+0060A4	GEW Technologies (PTY)Ltd
+0060B4	GLENAYRE R&D INC.
+0060C4	SOLITON SYSTEMS K.K.
+0060D4	ELDAT COMMUNICATION LTD.
+0060E4	COMPUSERVE, INC.
+0060F4	ADVANCED COMPUTER SOLUTIONS, Inc.
+006F64	Samsung Electronics Co.,Ltd
+008004	Antlow Computers, Ltd.
+008014	ESPRIT SYSTEMS
+008024	Kalpana
+008034	SMT-Goupil
+008044	SYSTECH COMPUTER CORP.
+008054	FRONTIER TECHNOLOGIES CORP.
+008064	Wyse
+008074	Fisher Controls
+008084	THE CLOUD INC.
+008094	Sattcontrol AB
+0080A4	LIBERTY ELECTRONICS
+0080B4	SOPHIA SYSTEMS
+0080C4	DOCUMENT TECHNOLOGIES, INC.
+0080D4	Chase Limited
+0080E4	NORTHWEST DIGITAL SYSTEMS, INC
+0080F4	Telemechanique Electrique
+0081C4	Cisco Systems, Inc
+008C54	ADB Broadband Italia
+009004	3com
+009014	ROTORK INSTRUMENTS, LTD.
+009024	PIPELINKS, INC.
+009034	IMAGIC, INC.
+009044	ASSURED DIGITAL, INC.
+009054	INNOVATIVE SEMICONDUCTORS, INC
+009064	Thomson Inc.
+009074	ARGON NETWORKS, INC.
+009084	ATECH SYSTEM
+009094	OSPREY TECHNOLOGIES, INC.
+0090A4	ALTIGA NETWORKS
+0090B4	WILLOWBROOK TECHNOLOGIES
+0090C4	JAVELIN SYSTEMS, INC.
+0090D4	BindView Development Corp.
+0090E4	NEC AMERICA, INC.
+0090F4	LIGHTNING INSTRUMENTATION
+00A004	NETPOWER, INC.
+00A014	Csir
+00A024	3com
+00A034	Axel
+00A044	NTT IT CO., LTD.
+00A054	Private
+00A064	KVB/ANALECT
+00A074	PERCEPTION TECHNOLOGY
+00A084	Dataplex Pty Ltd
+00A094	COMSAT CORPORATION
+00A0A4	Oracle Corporation
+00A0B4	TEXAS MICROSYSTEMS, INC.
+00A0C4	CRISTIE ELECTRONICS LTD.
+00A0D4	RADIOLAN,  INC.
+00A0E4	OPTIQUEST
+00A0F4	Ge
+00A784	ITX security
+00B064	Cisco Systems, Inc
+00B094	Alaris, Inc.
+00C004	Japan Business Computer Co.Ltd
+00C014	Telematics Calabasas
+00C024	Eden Sistemas De Computacao SA
+00C034	Dale Computer Corporation
+00C044	Emcom Corporation
+00C054	NETWORK PERIPHERALS, LTD.
+00C064	General Datacomm Ind Inc
+00C074	Toyoda Automatic Loom Works Ltd
+00C084	Data Link Corp Ltd
+00C094	VMX INC.
+00C0A4	Unigraf OY
+00C0B4	Myson Technology Inc
+00C0C4	Computer Operational
+00C0D4	Axon Networks Inc
+00C0E4	Landis & Gyr Powers Inc
+00C0F4	Interlink System Co., Ltd.
+00C164	Cisco Systems, Inc
+00D004	PENTACOM LTD.
+00D014	ROOT, INC.
+00D024	Cognex Corporation
+00D034	ORMEC SYSTEMS CORP.
+00D044	ALIDIAN NETWORKS, INC.
+00D054	SAS INSTITUTE INC.
+00D064	Multitel
+00D074	TAQUA SYSTEMS, INC.
+00D084	NEXCOMM SYSTEMS, INC.
+00D094	Seeion Control LLC
+00D0A4	ALANTRO COMMUNICATIONS
+00D0B4	KATSUJIMA CO., LTD.
+00D0C4	TERATECH CORPORATION
+00D0D4	V-BITS, INC.
+00D0E4	Cisco Systems, Inc
+00D0F4	CARINTHIAN TECH INSTITUTE
+00DD04	UNGERMANN-BASS INC.
+00E004	PMC-SIERRA, INC.
+00E014	Cisco
+00E024	GADZOOX NETWORKS
+00E034	Cisco
+00E044	LSICS CORPORATION
+00E054	KODAI HITEC CO., LTD.
+00E064	SAMSUNG ELECTRONICS
+00E074	TIERNAN COMMUNICATIONS, INC.
+00E084	COMPULITE R&D
+00E094	OSAI SRL
+00E0A4	ESAOTE S.p.A.
+00E0B4	TECHNO SCOPE CO., LTD.
+00E0C4	HORNER ELECTRIC, INC.
+00E0D4	EXCELLENT COMPUTER
+00E0E4	FANUC ROBOTICS NORTH AMERICA, Inc.
+00E0F4	INSIDE Technology A/S
+041A04	Waveip
+041B94	Host Mobility AB
+041E64	Apple, Inc.
+042234	Wireless Standard Extensions
+042DB4	First Property (Beijing) Co., Ltd Modern MOMA Branch
+0432F4	Partron
+043604	Gyeyoung I&T
+045604	Gionee Communication Equipment Co.,Ltd.
+04C5A4	Cisco Systems, Inc
+04CE14	Wilocity LTD.
+04E0C4	Triumph-               # TRIUMPH-ADLER AG
+04F7E4	Apple, Inc.
+080004	CROMEMCO INCORPORATED
+080014	Excelan				BBN Butterfly, Masscomp, Silicon Graphics
+080024	10NET COMMUNICATIONS/DCA
+080034	FILENET CORPORATION
+080044	DSI (DAVID Systems, Inc.)
+080064	Sitasys AG
+080074	Casio
+080084	TOMEN ELECTRONICS CORP.
+080D84	GECO, Inc.
+0817F4	IBM Corp
+0881F4	Juniper Networks
+08EA44	Aerohive Networks Inc.
+08EB74	HUMAX Co., Ltd.
+08F2F4	Net One Partners Co.,Ltd.
+0C2724	Cisco Systems, Inc
+0C8484	Zenovia Electronics Inc.
+0CA2F4	Chameleon Technology (UK) Limited
+0CA694	Sunitec Enterprise Co.,Ltd
+0CDFA4	Samsung Electronics Co.,Ltd
+0CE0E4	PLANTRONICS, INC.
+0CF0B4	Globalsat International Technology Ltd
+0CF5A4	Cisco Systems, Inc
+1000D4	DEC
+100C24	pomdevices, LLC
+101B54	HUAWEI TECHNOLOGIES CO.,LTD
+101F74	Hewlett Packard
+10DDF4	Maxway Electronics CO.,LTD
+10DEE4	automationNEXT GmbH
+10FC54	Shany Electronic Co., Ltd.
+143004	HUAWEI TECHNOLOGIES CO.,LTD
+1446E4	Avistel
+145F94	HUAWEI TECHNOLOGIES CO.,LTD
+14A364	Samsung Electronics Co.,Ltd
+14B484	Samsung Electronics Co.,Ltd
+14E6E4	TP-LINK TECHNOLOGIES CO.,LTD.
+14EDE4	Kaiam Corporation
+180C14	iSonea Limited
+181714	Daewoois
+183864	CAP-TECH INTERNATIONAL CO., LTD.
+1840A4	Shenzhen Trylong Smart Science and Technology Co., Ltd.
+184E94	MESSOA TECHNOLOGIES INC.
+18E7F4	Apple, Inc.
+18FE34	Espressif Inc.
+1C3E84	Hon Hai Precision Ind. Co.,Ltd.
+1C4024	Dell Inc.
+1C8464	FORMOSA WIRELESS COMMUNICATION CORP.
+1CB094	HTC Corporation
+1CB9C4	Ruckus Wireless
+202564	PEGATRON CORPORATION
+206274	Microsoft Corporation
+207D74	Apple, Inc.
+208984	COMPAL INFORMATION (KUNSHAN) CO., LTD.
+20A2E4	Apple, Inc.
+20C3A4	RetailNext
+20CEC4	Peraso Technologies
+20E564	ARRIS Group, Inc.
+20ED74	Ability enterprise co.,Ltd.
+240A64	AzureWave Technology Inc.
+240AC4	Espressif Inc.
+241064	Shenzhen Ecsino Tecnical Co. Ltd
+241B44	Hangzhou Tuners Electronics Co., Ltd
+241C04	SHENZHEN JEHE TECHNOLOGY DEVELOPMENT CO., LTD.
+243184	SHARP Corporation
+2486F4	Ctek, Inc.
+248894	shenzhen lensun Communication Technology LTD
+249504	Sfr
+24A074	Apple, Inc.
+24AF54	NEXGEN Mediatech Inc.
+24BF74	Private
+24E314	Apple, Inc.
+24F094	Apple, Inc.
+283CE4	HUAWEI TECHNOLOGIES CO.,LTD
+286094	Capelec
+286ED4	HUAWEI TECHNOLOGIES CO.,LTD
+287184	Spire Payments
+287994	Realplay Digital Technology(Shenzhen) Co.,Ltd
+28A574	Miller Electric Mfg. Co.
+28C914	Taimag Corporation
+28D244	LCFC(HeFei) Electronics Technology Co., Ltd.
+28E794	Microtime Computer Inc.
+2C1984	IDN Telecom, Inc.
+2C3124	Cisco Systems, Inc
+2C4D54	ASUSTek COMPUTER INC.
+2C7B84	OOO Petr Telegin
+2C9464	Cincoze Co., Ltd.
+2C9924	ARRIS Group, Inc.
+2C9AA4	Eolo SpA
+2CA2B4	Fortify Technologies, LLC
+2CABA4	Cisco SPVTG
+2CAC44	Conextop
+2CD444	FUJITSU LIMITED
+2CFCE4	CTEK Sweden AB
+3010E4	Apple, Inc.
+303294	W-Ie-Ne-               # W-IE-NE-R Plein & Baus GmbH
+3032D4	Hanilstm Co., Ltd.
+303A64	Intel Corporate
+304174	ALTEC LANSING LLC
+30AEA4	Espressif Inc.
+340804	D-Link Corporation
+341FE4	ARRIS Group, Inc.
+3431C4	AVM GmbH
+343DC4	BUFFALO.INC
+344CA4	amazipoint technology Ltd.
+3481C4	AVM GmbH
+3481F4	SST Taiwan Ltd.
+349E34	Evervictory Electronic Co.Ltd
+34ADE4	Shanghai Chint Power Systems Co., Ltd.
+34B354	HUAWEI TECHNOLOGIES CO.,LTD
+34CE94	Parsec (Pty) Ltd
+34D2C4	RENA GmbH Print Systeme
+34D7B4	Tributary Systems, Inc.
+34DE34	zte corporation
+34EA34	HangZhou Gubei Electronics Technology Co.,Ltd
+34EF44	2Wire Inc
+3806B4	A.D.C. GmbH
+3809A4	Firefly Integrations
+380A94	Samsung Electronics Co.,Ltd
+380DD4	Primax Electronics Ltd.
+380FE4	Dedicated Network Partners Oy
+38ECE4	Samsung Electronics Co.,Ltd
+3C0754	Apple, Inc.
+3C1E04	D-Link International
+3C2AF4	Brother Industries, LTD.
+3C2C94	杭州德澜科技有限公司（HangZhou Delan Technology Co.,Ltd）
+3C36E4	ARRIS Group, Inc.
+3C5AB4	Google, Inc.
+3C6104	Juniper Networks
+3C9174	ALONG COMMUNICATION TECHNOLOGY
+3CA9F4	Intel Corporate
+3CE5B4	KIDASEN INDUSTRIA E COMERCIO DE ANTENAS LTDA
+3CE624	LG Display
+4012E4	Compass-               # Compass-EOS
+402814	RFI Engineering
+402CF4	Universal Global Scientific Industrial Co., Ltd.
+403004	Apple, Inc.
+404AD4	Widex A/S
+4054E4	Wearsafe Labs Inc
+407074	Life Technology (China) Co., Ltd
+40A6A4	PassivSystems Ltd
+40B034	Hewlett Packard
+440444	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+4439C4	Universal Global Scientific Industrial Co., Ltd.
+446C24	Reallin Electronic Co.,Ltd
+447BC4	DualShine Technology(SZ)Co.,Ltd
+44D244	Seiko Epson Corporation
+44D884	Apple, Inc.
+481A84	Pointer Telocation Ltd
+483974	Proware Technologies Co., Ltd.
+487604	Private
+488244	Life Fitness / Div. of Brunswick
+489D24	BlackBerry RTS
+48BF74	Baicells Technologies Co.,LTD
+48D224	Liteon Technology Corporation
+48E244	Hon Hai Precision Ind. Co.,Ltd.
+4C09B4	zte corporation
+4C09D4	Arcadyan Technology Corporation
+4C1694	shenzhen sibituo Technology Co., Ltd
+4C3B74	VOGTEC(H.K.) Co., Ltd
+4C9614	Juniper Networks
+4C9EE4	Hanyang Navicom Co.,Ltd.
+4CCC34	Motorola Solutions Inc.
+4CD9C4	Magneti Marelli Automotive Electronics (Guangzhou) Co. Ltd
+500604	Cisco Systems, Inc
+502DF4	Phytec Messtechnik GmbH
+503CC4	Lenovo Mobile Communication Technology Ltd.
+504F94	Loxone Electronics GmbH
+506184	Avaya Inc
+507224	Texas Instruments
+50A054	Actineon
+50D274	Steffes Corporation
+50ED94	EGATEL SL
+50FA84	TP-LINK TECHNOLOGIES CO.,LTD.
+540384	Hangkong Nano IC Technologies Co., Ltd
+545414	Digital RF Corea, Inc
+547F54	Ingenico
+54A274	Cisco Systems, Inc
+54A9D4	Minibar Systems
+54D0B4	Xiamen Four-Faith Communication Technology Co.,Ltd
+54D9E4	BRILLIANTTS CO., LTD
+583F54	LG Electronics (Mobile Communications)
+5842E4	Baxter International Inc
+584704	Shenzhen Webridge Technology Co.,Ltd
+5884E4	IP500 Alliance e.V.
+58B0D4	ZuniData Systems Inc.
+58EB14	Proteus Digital Health
+58FB84	Intel Corporate
+5C22C4	DAE EUN ELETRONICS CO., LTD
+5C6984	Nuvico
+5C89D4	Beijing Banner Electric Co.,Ltd
+5CB524	Sony Mobile Communications AB
+5CC5D4	Intel Corporate
+5CD2E4	Intel Corporate
+5CDAD4	Murata Manufacturing Co., Ltd.
+5CE2F4	AcSiP Technology Corp.
+600194	Espressif Inc.
+6002B4	Wistron Neweb Corporation
+602A54	CardioTek B.V.
+6047D4	FORICS Electronic Technology Co., Ltd.
+605464	Eyedro Green Solutions Inc.
+605BB4	AzureWave Technology Inc.
+606944	Apple, Inc.
+608334	HUAWEI TECHNOLOGIES CO.,LTD
+609084	DSSD Inc
+609AA4	GVI SECURITY INC.
+609E64	Vivonic GmbH
+60B3C4	Elber Srl
+60DE44	HUAWEI TECHNOLOGIES CO.,LTD
+60F494	Hon Hai Precision Ind. Co.,Ltd.
+640E94	Pluribus Networks, Inc.
+641084	HEXIUM Technical Development Co., Ltd.
+642184	Nippon Denki Kagaku Co.,LTD
+644214	Swisscom Energy Solutions AG
+644F74	LENUS Co., Ltd.
+645A04	Chicony Electronics Co., Ltd.
+646184	Velux
+646A74	AUTH-SERVERS, LLC
+647BD4	Texas Instruments
+647C34	Ubee Interactive Corp.
+649B24	V Technology Co., Ltd.
+64C354	Avaya Inc
+64C944	LARK Technologies, Inc
+64D154	Routerboard.com
+64D814	Cisco Systems, Inc
+64D954	Taicang T&W Electronics
+681D64	Sunwave Communications Co., Ltd
+683E34	MEIZU Technology Co., Ltd.
+687924	ELS-GmbH & Co. KG
+687F74	Cisco-Linksys, LLC
+688F84	HUAWEI TECHNOLOGIES CO.,LTD
+689234	Ruckus Wireless
+68A3C4	Liteon Technology Corporation
+68B094	INESA ELECTRON CO.,LTD
+68EDA4	Shenzhen Seavo Technology Co.,Ltd
+6C0B84	Universal Global Scientific Industrial Co., Ltd.
+6C3A84	Shenzhen Aero-Startech. Co.Ltd
+6C5A34	Shenzhen Haitianxiong Electronic Co., Ltd.
+6C5C14	GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+6C8814	Intel Corporate
+6C9354	Yaojin Technology (Shenzhen) Co., LTD.
+6CB7F4	Samsung Electronics Co.,Ltd
+700514	LG Electronics (Mobile Communications)
+701124	Apple, Inc.
+701404	Limited Liability Company
+701A04	Liteon Technology Corporation
+701DC4	NorthStar Battery Company, LLC
+702084	Hon Hai Precision Ind. Co., Ltd.
+702D84	i4C Innovations
+7038B4	Low Tech Solutions
+704AE4	Rinstrum Pty Ltd
+70AD54	Malvern Instruments Ltd
+70AF24	TP Vision Belgium NV
+70E284	Wistron Infocomm (Zhongshan) Corporation
+70ECE4	Apple, Inc.
+742344	Xiaomi Communications Co Ltd
+744AA4	zte corporation
+748114	Apple, Inc.
+7493A4	Zebra Technologies Corp.
+74E424	APISTE CORPORATION
+782544	Omnima Limited
+783A84	Apple, Inc.
+7840E4	Samsung Electronics Co.,Ltd
+7845C4	Dell Inc.
+7846C4	DAEHAP HYPER-TECH
+788C54	Eltek Technologies LTD
+7894B4	Sercomm Corporation.
+789684	ARRIS Group, Inc.
+78A3E4	Apple, Inc.
+78A504	Texas Instruments
+78A714	Amphenol
+78CA04	Nokia Corporation
+78D004	Neousys Technology Inc.
+78DEE4	Texas Instruments
+78EB14	SHENZHEN FAST TECHNOLOGIES CO.,LTD
+78EC74	Kyland-USA
+78F944	Private
+78FC14	Family Zone Cyber Safety Ltd
+78FD94	Apple, Inc.
+7C2064	Alcatel-               # Alcatel-Lucent IPD
+7C2634	ARRIS Group, Inc.
+7C2664	Sagemcom Broadband SAS
+7C72E4	Unikey Technologies
+7C7BE4	Z'SEDAI KENKYUSHO CORPORATION
+7C8274	Shenzhen Hikeen Technology CO.,LTD
+7C8EE4	Texas Instruments
+7CAD74	Cisco Systems, Inc
+7CC6C4	Kolff Computer Supplies b.v.
+7CD844	Enmotus Inc
+7CDA84	Dongnian Networks Inc.
+7CE044	NEON Inc
+7CE524	Quirky, Inc.
+7CF854	Samsung Electronics Co.,Ltd
+800184	HTC Corporation
+800E24	ForgetBox
+801844	Dell Inc.
+801934	Intel Corporate
+802994	Technicolor CH USA Inc.
+802E14	azeti Networks AG
+805A04	LG Electronics (Mobile Communications)
+80AAA4	Usag
+8425A4	Tariox Limited
+842914	EMPORIA TELECOM Produktions- und VertriebsgesmbH & Co KG
+844464	ServerU Inc
+8482F4	Beijing Huasun Unicreate Technology Co., Ltd
+848D84	Rajant Corporation
+849D64	SMC Corporation
+84A134	Apple, Inc.
+84A8E4	HUAWEI TECHNOLOGIES CO.,LTD
+84A9C4	HUAWEI TECHNOLOGIES CO.,LTD
+84ACA4	Beijing Novel Super Digital TV Technology Co., Ltd
+84C2E4	Jiangsu Qinheng Co., Ltd.
+84E0F4	IEEE Registration Authority
+84E714	Liang Herng Enterprise,Co.Ltd.
+881544	Cisco Meraki
+882364	Watchnet DVR Inc
+883314	Texas Instruments
+8853D4	HUAWEI TECHNOLOGIES CO.,LTD
+886B44	Sunnovo International Limited
+887384	Toshiba
+888914	All Components Incorporated
+888964	GSI Electronics Inc.
+88A084	Formation Data Systems
+88D274	zte corporation
+8C09F4	ARRIS Group, Inc.
+8C10D4	Sagemcom Broadband SAS
+8C1F94	RF Surgical System Inc.
+8C6AE4	Viogem Limited
+8CB094	Airtech I&C Co., Ltd
+8CB864	AcSiP Technology Corp.
+8CC8F4	IEEE Registration Authority
+8CDCD4	Hewlett Packard
+900CB4	Alinket Electronic Technology Co., Ltd
+9027E4	Apple, Inc.
+902B34	GIGA-BYTE TECHNOLOGY CO.,LTD.
+905C44	Compal Broadband Networks, Inc.
+908674	SICHUAN TIANYI COMHEART TELECOMCO., LTD
+908C44	H.K ZONGMU TECHNOLOGY CO., LTD.
+9092B4	Diehl BGT Defence GmbH & Co. KG
+9094E4	D-Link International
+909864	Impex-Sat GmbH&amp;Co KG
+90B134	ARRIS Group, Inc.
+90CC24	Synaptics, Inc
+90E7C4	HTC Corporation
+944444	LG Innotek
+946124	Pason Systems
+9481A4	Azuray Technologies
+9486D4	Surveillance Pro Corporation
+948854	Texas Instruments
+949FB4	ChengDu JiaFaAnTai Technology Co.,Ltd
+94B9B4	Aptos Technology
+94C014	Sorter Sp. j. Konrad Grzeszczyk MichaA, Ziomek
+94C3E4	SCA Schucker Gmbh & Co KG
+94FEF4	Sagemcom Broadband SAS
+980284	Theobroma Systems GmbH
+980EE4	Private
+981094	Shenzhen Vsun communication technology Co.,ltd
+984C04	Zhangzhou Keneng Electrical Equipment Co Ltd
+9873C4	Sage Electronic Engineering LLC
+988744	Wuxi Hongda Science and Technology Co.,LTD
+988E34	ZHEJIANG BOXSAM ELECTRONIC CO.,LTD
+98BE94	Ibm
+98CDB4	Virident Systems, Inc.
+98E7F4	Hewlett Packard
+98FD74	ACT.CO.LTD
+98FDB4	Primax Electronics Ltd.
+98FE94	Apple, Inc.
+9C1874	Nokia Danmark A/S
+9C37F4	HUAWEI TECHNOLOGIES CO.,LTD
+9C55B4	I.S.E. S.r.l.
+9C7514	Wildix srl
+9C93E4	Private
+9CA134	Nike, Inc.
+9CA9E4	zte corporation
+9CB654	Hewlett Packard
+9CE374	HUAWEI TECHNOLOGIES CO.,LTD
+A04E04	Nokia Corporation
+A04FD4	ADB Broadband Italia
+A05AA4	Grand Products Nevada, Inc.
+A088B4	Intel Corporate
+A089E4	Skyworth Digital Technology(Shenzhen) Co.,Ltd
+A0DC04	Becker-Antriebe GmbH
+A0E534	Stratec Biomedical AG
+A0EF84	Seine Image Int'l Co., Ltd
+A0F3E4	Alcatel-               # Alcatel-Lucent IPD
+A47174	HUAWEI TECHNOLOGIES CO.,LTD
+A479E4	KLINFO Corp
+A47AA4	ARRIS Group, Inc.
+A47C14	ChargeStorm AB
+A4A1E4	Innotube, Inc.
+A4C494	Intel Corporate
+A4D094	Erwin Peters Systemtechnik GmbH
+A4D9A4	neXus ID Solutions AB
+A4E7E4	Connex GmbH
+A81374	Panasonic Corporation AVC Networks Company
+A81E84	QUANTA COMPUTER INC.
+A83944	Actiontec Electronics, Inc
+A85EE4	12Sided Technology, LLC
+A88E24	Apple, Inc.
+A8B1D4	Cisco Systems, Inc
+A8F274	Samsung Electronics Co.,Ltd
+AA0004	DEC				Local logical address for DECNET systems
+AC3CB4	Nilan A/S
+AC3FA4	TAIYO YUDEN CO.,LTD
+AC5A14	Samsung Electronics Co.,Ltd
+AC8674	Open Mesh, Inc.
+AC8D14	Smartrove Inc
+AC9B84	Smak Tecnologia e Automacao
+AC9CE4	Alcatel-               # Alcatel-Lucent Shanghai Bell Co., Ltd
+ACCA54	Telldus Technologies AB
+ACD074	Espressif Inc.
+ACD364	ABB SPA, ABB SACE DIV.
+B000B4	Cisco Systems, Inc
+B00594	Liteon Technology Corporation
+B058C4	Broadcast Microwave Services, Inc
+B07994	Motorola Mobility LLC, a Lenovo Company
+B09074	Fulan Electronics Limited
+B09134	Taleo
+B09BD4	GNH Software India Private Limited
+B0C554	D-Link International
+B0E754	2Wire Inc
+B40B44	Smartisan Technology Co., Ltd.
+B43564	Fujian Tian Cheng Electron Science & Technical Development Co.,Ltd.
+B43934	Pen Generations, Inc.
+B45CA4	Thing-talk Wireless Communication Technologies Corporation Limited
+B49DB4	Axion Technologies Inc.
+B4A984	Symantec Corporation
+B4B384	ShenZhen Figigantic Electronic Co.,Ltd
+B4E1C4	Microsoft Mobile Oy
+B4ED54	Wohler Technologies
+B4EEB4	ASKEY COMPUTER CORP
+B4EED4	Texas Instruments
+B4EF04	DAIHAN Scientific Co., Ltd.
+B4FBE4	Ubiquiti Networks Inc.
+B826D4	Furukawa Industrial S.A. Produtos Elétricos
+B843E4	Vlatacom
+B870F4	COMPAL INFORMATION (KUNSHAN) CO., LTD.
+B87424	Viessmann Elektronik GmbH
+B88F14	Analytica GmbH
+B89674	AllDSP GmbH & Co. KG
+B89BE4	ABB Power Systems Power Generation
+B8F934	Sony Mobile Communications AB
+BC0F64	Intel Corporate
+BC20A4	Samsung Electronics Co.,Ltd
+BC4434	Shenzhen TINNO Mobile Technology Corp.
+BC4CC4	Apple, Inc.
+BC52B4	Nokia
+BC5FF4	ASRock Incorporation
+BC6784	Environics Oy
+BC6A44	Commend International GmbH
+BC6E64	Sony Mobile Communications AB
+BC7574	HUAWEI TECHNOLOGIES CO.,LTD
+C034B4	Gigastone Corporation
+C06394	Apple, Inc.
+C09134	ProCurve Networking by HP
+C09C04	Shaanxi GuoLian Digital TV Technology Co.,Ltd.
+C0A364	3D Systems Massachusetts
+C0AC54	Sagemcom Broadband SAS
+C0D044	Sagemcom Broadband SAS
+C0DA74	Hangzhou Sunyard Technology Co., Ltd.
+C0EAE4	Sonicwall
+C0F1C4	Pacidal Corporation Ltd.
+C0FFD4	Netgear
+C44044	RackTop Systems Inc.
+C44B44	Omniprint Inc.
+C45444	QUANTA COMPUTER INC.
+C46044	Everex Electronics Limited
+C46354	U-Raku, Inc.
+C46BB4	Myidkey
+C4BE84	Texas Instruments
+C4BED4	Avaya Inc
+C4E984	TP-LINK TECHNOLOGIES CO.,LTD.
+C4F464	Spica international
+C4FCE4	DishTV NZ Ltd
+C80084	Cisco Systems, Inc
+C80E14	AVM Audiovisuelles Marketing und Computersysteme GmbH
+C82A14	Apple, Inc.
+C82E94	Halfa Enterprise Co., Ltd.
+C83DD4	CyberTAN Technology Inc.
+C83FB4	ARRIS Group, Inc.
+C84544	Asia Pacific CIS (Wuxi) Co, Ltd
+C87324	Sow Cheng Technology Co. Ltd.
+C8BA94	SAMSUNG ELECTRO-MECHANICS(THAILAND)
+C8F704	Building Block Video
+CC04B4	Select Comfort
+CC07E4	Lenovo Mobile Communication Technology Ltd.
+CC1FC4	Invue
+CC4E24	Brocade Communications Systems, Inc.
+CC7314	HONG KONG WHEATEK TECHNOLOGY LIMITED
+CCA374	Guangdong Guanglian Electronic Technology Co.Ltd
+CCA614	AIFA TECHNOLOGY CORP.
+CCC104	Applied Technical Systems
+CCCD64	SM-Electronic GmbH
+CCF954	Avaya Inc
+D00EA4	Porsche Cars North America
+D02544	SAMSUNG ELECTRO-MECHANICS(THAILAND)
+D059E4	Samsung Electronics Co.,Ltd
+D063B4	SolidRun Ltd.
+D071C4	zte corporation
+D083D4	XTel ApS
+D0B2C4	Technicolor CH USA Inc.
+D0BAE4	Shanghai MXCHIP Information Technology Co., Ltd.
+D42C44	Cisco Systems, Inc
+D44C24	Vuppalamritha Magnetic Components LTD
+D48304	SHENZHEN FAST TECHNOLOGIES CO.,LTD
+D48564	Hewlett Packard
+D49524	Clover Network, Inc.
+D4D184	ADB Broadband Italia
+D4F0B4	Napco Security Technologies
+D81C14	Compacta International, Ltd.
+D83214	Tenda Technology Co.,Ltd.Dongguan branch
+D85D84	CAx soft GmbH
+D86194	Objetivos y Sevicios de Valor Añadido
+D89A34	Beijing SHENQI Technology Co., Ltd.
+DC0914	Talk-A-Phone Co.
+DC0B34	LG Electronics (Mobile Communications)
+DC1DD4	Microstep-MIS spol. s r.o.
+DC2A14	Shanghai Longjing Technology Co.
+DC3714	Apple, Inc.
+DC3C84	Ticom Geomatics, Inc.
+DC7014	Private
+DC7144	SAMSUNG ELECTRO MECHANICS CO., LTD.
+DC7834	LOGICOM SA
+DC7B94	Cisco Systems, Inc
+DC7FA4	2Wire Inc
+DC9FA4	Nokia Corporation
+DCA5F4	Cisco Systems, Inc
+DCA904	Apple, Inc.
+DCAE04	CELOXICA Ltd
+DCB3B4	Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+DCB4C4	Microsoft XCG
+DCCF94	Beijing Rongcheng Hutong Technology Co., Ltd.
+DCEB94	Cisco Systems, Inc
+E034E4	Feit Electric Company, Inc.
+E03E44	Broadcom
+E05124	NXP Semiconductors
+E056F4	AxesNetwork Solutions inc.
+E0CA94	ASKEY COMPUTER CORP
+E42354	SHENZHEN FUZHI SOFTWARE TECHNOLOGY CO.,LTD
+E45614	Suttle Apparatus
+E477D4	Minrray Industry Co.,Ltd
+E48184	Nokia
+E80734	Champion Optical Network Engineering, LLC
+E81324	GuangZhou Bonsoninfo System CO.,LTD
+E82E24	Out of the Fog Research LLC
+E84E84	Samsung Electronics Co.,Ltd
+E85484	NEO Information Systems Co., Ltd.
+E855B4	SAI Technology Inc.
+E865D4	Tenda Technology Co.,Ltd.Dongguan branch
+E866C4	Diamanti
+E86D54	Digit Mobile Inc
+E892A4	LG Electronics (Mobile Communications)
+E899C4	HTC Corporation
+E89EB4	Hon Hai Precision Ind. Co.,Ltd.
+E8A364	Signal Path International / Peachtree Audio
+E8F724	Hewlett Packard Enterprise
+EC0EC4	Hon Hai Precision Ind. Co.,Ltd.
+EC4644	TTK SAS
+EC6264	Global411 Internet Services, LLC
+EC7C74	Justone Technologies Co., Ltd.
+EC9A74	Hewlett Packard
+ECE154	Beijing Unisound Information Technology Co.,Ltd.
+ECE744	Omntec mfg. inc
+F01E34	ORICO Technologies Co., Ltd
+F02624	WAFA TECHNOLOGIES CO., LTD.
+F03404	TCT mobile ltd
+F074E4	Thundercomm Technology Co., Ltd
+F0A764	GST Co., Ltd.
+F0AB54	MITSUMI ELECTRIC CO.,LTD.
+F0ACA4	HBC-radiomatic
+F0F644	Whitesky Science & Technology Co.,Ltd.
+F40304	Google, Inc.
+F40F24	Apple, Inc.
+F43814	Shanghai Howell Electronic Co.,Ltd
+F45214	Mellanox Technologies, Inc.
+F45FD4	Cisco SPVTG
+F46D04	ASUSTek COMPUTER INC.
+F49634	Intel Corporate
+F49F54	Samsung Electronics Co.,Ltd
+F4A294	EAGLE WORLD DEVELOPMENT CO., LIMITED
+F4B164	Lightning Telecommunications Technology Co. Ltd
+F4C714	HUAWEI TECHNOLOGIES CO.,LTD
+F4CA24	FreeBit Co., Ltd.
+F4E9D4	QLogic Corporation
+F4EE14	SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+F4F524	Motorola Mobility LLC, a Lenovo Company
+F80F84	Natural Security SAS
+F81654	Intel Corporate
+F83094	Alcatel-               # Alcatel-Lucent Telecom Limited
+F832E4	ASUSTek COMPUTER INC.
+F86214	Apple, Inc.
+F87394	Netgear
+F8A2B4	RHEWA-WAAGENFABRIK August Freudewald GmbH &amp;Co. KG
+F8DAF4	Taishan Online Technology Co., Ltd.
+F8F014	RackWare Inc.
+F8F464	Rawe Electonic GmbH
+FC15B4	Hewlett Packard
+FC1794	InterCreative Co., Ltd
+FC1D84	Autobase
+FC2A54	Connected Data, Inc.
+FC4DD4	Universal Global Scientific Industrial Co., Ltd.
+FC51A4	ARRIS Group, Inc.
+FC5B24	Weibel Scientific A/S
+FC8FC4	Intelligent Technology Inc.
+FC9114	Technicolor CH USA Inc.
+FCAA14	GIGA-BYTE TECHNOLOGY CO.,LTD.
+FCB0C4	Shanghai DareGlobal Technologies Co.,Ltd
+FCC734	Samsung Electronics Co.,Ltd
+FCCAC4	LifeHealth, LLC
+FCCCE4	Ascon Ltd.
